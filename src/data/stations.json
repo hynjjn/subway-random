@@ -1,0 +1,6422 @@
+{
+  "lines": [
+    "1호선",
+    "2호선",
+    "3호선",
+    "4호선",
+    "5호선",
+    "6호선",
+    "7호선",
+    "8호선",
+    "9호선",
+    "GTX-A",
+    "경강선",
+    "경의·중앙선",
+    "경춘선",
+    "공항철도",
+    "김포도시철도",
+    "서해선",
+    "수인·분당선",
+    "신림선",
+    "신분당선",
+    "용인경전철",
+    "우이신설경전철",
+    "의정부경전철",
+    "인천1호선",
+    "인천2호선"
+  ],
+  "stations": [
+    {
+      "code": "130",
+      "internalCode": "0153",
+      "name": "종로3가",
+      "nameEn": "Jongno 3(sam)-ga",
+      "line": "1호선",
+      "isTransfer": true
+    },
+    {
+      "code": "136",
+      "internalCode": "1004",
+      "name": "노량진",
+      "nameEn": "Noryangjin",
+      "line": "1호선",
+      "isTransfer": true
+    },
+    {
+      "code": "138",
+      "internalCode": "1032",
+      "name": "신길",
+      "nameEn": "Singil",
+      "line": "1호선",
+      "isTransfer": true
+    },
+    {
+      "code": "100-1",
+      "internalCode": "1917",
+      "name": "청산",
+      "nameEn": "Cheongsan",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "137",
+      "internalCode": "1005",
+      "name": "대방",
+      "nameEn": "Daebang",
+      "line": "1호선",
+      "isTransfer": true
+    },
+    {
+      "code": "100",
+      "internalCode": "1916",
+      "name": "소요산",
+      "nameEn": "Soyosan",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "132",
+      "internalCode": "0151",
+      "name": "시청",
+      "nameEn": "City Hall",
+      "line": "1호선",
+      "isTransfer": true
+    },
+    {
+      "code": "133",
+      "internalCode": "0150",
+      "name": "서울역",
+      "nameEn": "Seoul Station",
+      "line": "1호선",
+      "isTransfer": true
+    },
+    {
+      "code": "104",
+      "internalCode": "1912",
+      "name": "지행",
+      "nameEn": "Jihaeng",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "101",
+      "internalCode": "1915",
+      "name": "동두천",
+      "nameEn": "Dongducheon",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "103",
+      "internalCode": "1913",
+      "name": "동두천중앙",
+      "nameEn": "Dongducheonjungang",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "141",
+      "internalCode": "1701",
+      "name": "구로",
+      "nameEn": "Guro",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "116",
+      "internalCode": "1022",
+      "name": "창동",
+      "nameEn": "Chang-dong",
+      "line": "1호선",
+      "isTransfer": true
+    },
+    {
+      "code": "P154",
+      "internalCode": "1712",
+      "name": "화서",
+      "nameEn": "Hwaseo",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P152",
+      "internalCode": "1710",
+      "name": "의왕",
+      "nameEn": "Uiwang",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "134",
+      "internalCode": "1002",
+      "name": "남영",
+      "nameEn": "Namyeong",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "135",
+      "internalCode": "1003",
+      "name": "용산",
+      "nameEn": "Yongsan",
+      "line": "1호선",
+      "isTransfer": true
+    },
+    {
+      "code": "P170",
+      "internalCode": "1401",
+      "name": "봉명",
+      "nameEn": "Bongmyeong",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P171",
+      "internalCode": "1402",
+      "name": "쌍용",
+      "nameEn": "Ssangyong",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P172",
+      "internalCode": "1403",
+      "name": "아산",
+      "nameEn": "Asan",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P173",
+      "internalCode": "1404",
+      "name": "탕정",
+      "nameEn": "Tangjeong",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P174",
+      "internalCode": "1405",
+      "name": "배방",
+      "nameEn": "Baebang",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P149",
+      "internalCode": "1708",
+      "name": "금정",
+      "nameEn": "Geumjeong",
+      "line": "1호선",
+      "isTransfer": true
+    },
+    {
+      "code": "139",
+      "internalCode": "1006",
+      "name": "영등포",
+      "nameEn": "Yeongdeungpo",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "140",
+      "internalCode": "1007",
+      "name": "신도림",
+      "nameEn": "Sindorim",
+      "line": "1호선",
+      "isTransfer": true
+    },
+    {
+      "code": "150",
+      "internalCode": "1805",
+      "name": "송내",
+      "nameEn": "Songnae",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "122",
+      "internalCode": "1016",
+      "name": "외대앞",
+      "nameEn": "Hankuk Univ. of Foreign Studies",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "121",
+      "internalCode": "1017",
+      "name": "신이문",
+      "nameEn": "Sinimun",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P176",
+      "internalCode": "1407",
+      "name": "온양온천",
+      "nameEn": "Onyang oncheon",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P177",
+      "internalCode": "1408",
+      "name": "신창",
+      "nameEn": "Sinchang",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "123",
+      "internalCode": "1015",
+      "name": "회기",
+      "nameEn": "Hoegi",
+      "line": "1호선",
+      "isTransfer": true
+    },
+    {
+      "code": "148",
+      "internalCode": "1804",
+      "name": "부천",
+      "nameEn": "Bucheon",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "146",
+      "internalCode": "1803",
+      "name": "역곡",
+      "nameEn": "Yeokgok",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P157-1",
+      "internalCode": "1749",
+      "name": "서동탄",
+      "nameEn": "Seodongtan",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "112",
+      "internalCode": "1904",
+      "name": "망월사",
+      "nameEn": "Mangwolsa",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P151",
+      "internalCode": "1729",
+      "name": "당정",
+      "nameEn": "Dangjeong",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "113",
+      "internalCode": "1903",
+      "name": "도봉산",
+      "nameEn": "Dobongsan",
+      "line": "1호선",
+      "isTransfer": true
+    },
+    {
+      "code": "114",
+      "internalCode": "1902",
+      "name": "도봉",
+      "nameEn": "Dobong",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "115",
+      "internalCode": "1901",
+      "name": "방학",
+      "nameEn": "Banghak",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P153",
+      "internalCode": "1711",
+      "name": "성균관대",
+      "nameEn": "Sungkyunkwan Univ.",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P144-1",
+      "internalCode": "1750",
+      "name": "광명",
+      "nameEn": "Gwangmyeong",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P165",
+      "internalCode": "1724",
+      "name": "평택",
+      "nameEn": "Pyeongtaek",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P164",
+      "internalCode": "1723",
+      "name": "평택지제",
+      "nameEn": "PyeongtaekJije",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P163",
+      "internalCode": "1722",
+      "name": "서정리",
+      "nameEn": "Seojeong-ri",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P162",
+      "internalCode": "1721",
+      "name": "송탄",
+      "nameEn": "Songtan",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P160",
+      "internalCode": "1719",
+      "name": "오산",
+      "nameEn": "Osan",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P159",
+      "internalCode": "1718",
+      "name": "오산대",
+      "nameEn": "Osan College",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P158",
+      "internalCode": "1717",
+      "name": "세마",
+      "nameEn": "Sema",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "127",
+      "internalCode": "0159",
+      "name": "동묘앞",
+      "nameEn": "Dongmyo",
+      "line": "1호선",
+      "isTransfer": true
+    },
+    {
+      "code": "P157",
+      "internalCode": "1716",
+      "name": "병점",
+      "nameEn": "Byeongjeom",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P156",
+      "internalCode": "1715",
+      "name": "세류",
+      "nameEn": "Seryu",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P143",
+      "internalCode": "1714",
+      "name": "독산",
+      "nameEn": "Doksan",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "157",
+      "internalCode": "1823",
+      "name": "도화",
+      "nameEn": "Dohwa",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "149",
+      "internalCode": "1822",
+      "name": "중동",
+      "nameEn": "Jung-dong",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "145",
+      "internalCode": "1821",
+      "name": "온수",
+      "nameEn": "Onsu",
+      "line": "1호선",
+      "isTransfer": true
+    },
+    {
+      "code": "P142",
+      "internalCode": "1702",
+      "name": "가산디지털단지",
+      "nameEn": "Gasan Digital Complex",
+      "line": "1호선",
+      "isTransfer": true
+    },
+    {
+      "code": "P144",
+      "internalCode": "1703",
+      "name": "금천구청",
+      "nameEn": "Geumcheon-Gu Office",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "120",
+      "internalCode": "1018",
+      "name": "석계",
+      "nameEn": "Seokgye",
+      "line": "1호선",
+      "isTransfer": true
+    },
+    {
+      "code": "119",
+      "internalCode": "1019",
+      "name": "광운대",
+      "nameEn": "Kwangwoon Univ.",
+      "line": "1호선",
+      "isTransfer": true
+    },
+    {
+      "code": "159",
+      "internalCode": "1817",
+      "name": "도원",
+      "nameEn": "Dowon",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "118",
+      "internalCode": "1020",
+      "name": "월계",
+      "nameEn": "Wolgye",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P146",
+      "internalCode": "1705",
+      "name": "관악",
+      "nameEn": "Gwanak",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "155",
+      "internalCode": "1816",
+      "name": "간석",
+      "nameEn": "Ganseok",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "151",
+      "internalCode": "1815",
+      "name": "부개",
+      "nameEn": "Bugae",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "147",
+      "internalCode": "1814",
+      "name": "소사",
+      "nameEn": "Sosa",
+      "line": "1호선",
+      "isTransfer": true
+    },
+    {
+      "code": "142",
+      "internalCode": "1813",
+      "name": "구일",
+      "nameEn": "Guil",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "124",
+      "internalCode": "0158",
+      "name": "청량리",
+      "nameEn": "Cheongnyangni",
+      "line": "1호선",
+      "isTransfer": true
+    },
+    {
+      "code": "125",
+      "internalCode": "0157",
+      "name": "제기동",
+      "nameEn": "Jegi-dong",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "126",
+      "internalCode": "0156",
+      "name": "신설동",
+      "nameEn": "Sinseol-dong",
+      "line": "1호선",
+      "isTransfer": true
+    },
+    {
+      "code": "128",
+      "internalCode": "0155",
+      "name": "동대문",
+      "nameEn": "Dongdaemun",
+      "line": "1호선",
+      "isTransfer": true
+    },
+    {
+      "code": "129",
+      "internalCode": "0154",
+      "name": "종로5가",
+      "nameEn": "Jongno 5(o)-ga",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "131",
+      "internalCode": "0152",
+      "name": "종각",
+      "nameEn": "Jonggak",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "117",
+      "internalCode": "1021",
+      "name": "녹천",
+      "nameEn": "Nokcheon",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "161",
+      "internalCode": "1812",
+      "name": "인천",
+      "nameEn": "Incheon",
+      "line": "1호선",
+      "isTransfer": true
+    },
+    {
+      "code": "P145",
+      "internalCode": "1704",
+      "name": "석수",
+      "nameEn": "Seoksu",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "160",
+      "internalCode": "1811",
+      "name": "동인천",
+      "nameEn": "Dongincheon",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "158",
+      "internalCode": "1810",
+      "name": "제물포",
+      "nameEn": "Jemulpo",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "156",
+      "internalCode": "1809",
+      "name": "주안",
+      "nameEn": "Juan",
+      "line": "1호선",
+      "isTransfer": true
+    },
+    {
+      "code": "154",
+      "internalCode": "1808",
+      "name": "동암",
+      "nameEn": "Dongam",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "153",
+      "internalCode": "1807",
+      "name": "백운",
+      "nameEn": "Baegun",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "152",
+      "internalCode": "1806",
+      "name": "부평",
+      "nameEn": "Bupyeong",
+      "line": "1호선",
+      "isTransfer": true
+    },
+    {
+      "code": "144",
+      "internalCode": "1802",
+      "name": "오류동",
+      "nameEn": "Oryu-dong",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "143",
+      "internalCode": "1801",
+      "name": "개봉",
+      "nameEn": "Gaebong",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P169",
+      "internalCode": "1728",
+      "name": "천안",
+      "nameEn": "Cheonan",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P168",
+      "internalCode": "1727",
+      "name": "두정",
+      "nameEn": "Dujeong",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P167",
+      "internalCode": "1726",
+      "name": "직산",
+      "nameEn": "Jiksan",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "111",
+      "internalCode": "1905",
+      "name": "회룡",
+      "nameEn": "Hoeryong",
+      "line": "1호선",
+      "isTransfer": true
+    },
+    {
+      "code": "110",
+      "internalCode": "1906",
+      "name": "의정부",
+      "nameEn": "Uijeongbu",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "109",
+      "internalCode": "1907",
+      "name": "가능",
+      "nameEn": "Ganeung",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "108",
+      "internalCode": "1908",
+      "name": "녹양",
+      "nameEn": "Nogyang",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "107",
+      "internalCode": "1909",
+      "name": "양주",
+      "nameEn": "Yangju",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "106",
+      "internalCode": "1910",
+      "name": "덕계",
+      "nameEn": "Deokgye",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "105",
+      "internalCode": "1911",
+      "name": "덕정",
+      "nameEn": "Deokjeong",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "102",
+      "internalCode": "1914",
+      "name": "보산",
+      "nameEn": "Bosan",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P166",
+      "internalCode": "1725",
+      "name": "성환",
+      "nameEn": "Seonghwan",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P161",
+      "internalCode": "1720",
+      "name": "진위",
+      "nameEn": "Jinwi",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P147",
+      "internalCode": "1706",
+      "name": "안양",
+      "nameEn": "Anyang",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P155",
+      "internalCode": "1713",
+      "name": "수원",
+      "nameEn": "Suwon",
+      "line": "1호선",
+      "isTransfer": true
+    },
+    {
+      "code": "100-3",
+      "internalCode": "1919",
+      "name": "연천",
+      "nameEn": "Yeoncheon",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P148",
+      "internalCode": "1707",
+      "name": "명학",
+      "nameEn": "Myeonghak",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P150",
+      "internalCode": "1709",
+      "name": "군포",
+      "nameEn": "Gunpo",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "100-2",
+      "internalCode": "1918",
+      "name": "전곡",
+      "nameEn": "Jeongok",
+      "line": "1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "236",
+      "internalCode": "0236",
+      "name": "영등포구청",
+      "nameEn": "Yeongdeungpo-gu Office",
+      "line": "2호선",
+      "isTransfer": true
+    },
+    {
+      "code": "221",
+      "internalCode": "0221",
+      "name": "역삼",
+      "nameEn": "Yeoksam",
+      "line": "2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "220",
+      "internalCode": "0220",
+      "name": "선릉",
+      "nameEn": "Seolleung",
+      "line": "2호선",
+      "isTransfer": true
+    },
+    {
+      "code": "219",
+      "internalCode": "0219",
+      "name": "삼성",
+      "nameEn": "Samseong",
+      "line": "2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "218",
+      "internalCode": "0218",
+      "name": "종합운동장",
+      "nameEn": "Sports Complex",
+      "line": "2호선",
+      "isTransfer": true
+    },
+    {
+      "code": "217",
+      "internalCode": "0217",
+      "name": "잠실새내",
+      "nameEn": "Jamsilsaenae",
+      "line": "2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "216",
+      "internalCode": "0216",
+      "name": "잠실",
+      "nameEn": "Jamsil",
+      "line": "2호선",
+      "isTransfer": true
+    },
+    {
+      "code": "215",
+      "internalCode": "0215",
+      "name": "잠실나루",
+      "nameEn": "Jamsillaru",
+      "line": "2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "214",
+      "internalCode": "0214",
+      "name": "강변",
+      "nameEn": "Gangbyeon",
+      "line": "2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "213",
+      "internalCode": "0213",
+      "name": "구의",
+      "nameEn": "Guui",
+      "line": "2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "204",
+      "internalCode": "0204",
+      "name": "을지로4가",
+      "nameEn": "Euljiro 4(sa)-ga",
+      "line": "2호선",
+      "isTransfer": true
+    },
+    {
+      "code": "238",
+      "internalCode": "0238",
+      "name": "합정",
+      "nameEn": "Hapjeong",
+      "line": "2호선",
+      "isTransfer": true
+    },
+    {
+      "code": "237",
+      "internalCode": "0237",
+      "name": "당산",
+      "nameEn": "Dangsan",
+      "line": "2호선",
+      "isTransfer": true
+    },
+    {
+      "code": "235",
+      "internalCode": "0235",
+      "name": "문래",
+      "nameEn": "Mullae",
+      "line": "2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "234",
+      "internalCode": "0234",
+      "name": "신도림",
+      "nameEn": "Sindorim",
+      "line": "2호선",
+      "isTransfer": true
+    },
+    {
+      "code": "233",
+      "internalCode": "0233",
+      "name": "대림",
+      "nameEn": "Daerim",
+      "line": "2호선",
+      "isTransfer": true
+    },
+    {
+      "code": "232",
+      "internalCode": "0232",
+      "name": "구로디지털단지",
+      "nameEn": "Guro Digital Complex",
+      "line": "2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "231",
+      "internalCode": "0231",
+      "name": "신대방",
+      "nameEn": "Sindaebang",
+      "line": "2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "230",
+      "internalCode": "0230",
+      "name": "신림",
+      "nameEn": "Sillim",
+      "line": "2호선",
+      "isTransfer": true
+    },
+    {
+      "code": "229",
+      "internalCode": "0229",
+      "name": "봉천",
+      "nameEn": "Bongcheon",
+      "line": "2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "201",
+      "internalCode": "0201",
+      "name": "시청",
+      "nameEn": "City Hall",
+      "line": "2호선",
+      "isTransfer": true
+    },
+    {
+      "code": "228",
+      "internalCode": "0228",
+      "name": "서울대입구",
+      "nameEn": "Seoul Nat`l Univ.",
+      "line": "2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "227",
+      "internalCode": "0227",
+      "name": "낙성대",
+      "nameEn": "Nakseongdae",
+      "line": "2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "226",
+      "internalCode": "0226",
+      "name": "사당",
+      "nameEn": "Sadang",
+      "line": "2호선",
+      "isTransfer": true
+    },
+    {
+      "code": "225",
+      "internalCode": "0225",
+      "name": "방배",
+      "nameEn": "Bangbae",
+      "line": "2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "224",
+      "internalCode": "0224",
+      "name": "서초",
+      "nameEn": "Seocho",
+      "line": "2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "223",
+      "internalCode": "0223",
+      "name": "교대",
+      "nameEn": "Seoul Nat`l Univ. of Education",
+      "line": "2호선",
+      "isTransfer": true
+    },
+    {
+      "code": "211-1",
+      "internalCode": "0244",
+      "name": "용답",
+      "nameEn": "Yongdap",
+      "line": "2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "243",
+      "internalCode": "0243",
+      "name": "충정로",
+      "nameEn": "Chungjeongno",
+      "line": "2호선",
+      "isTransfer": true
+    },
+    {
+      "code": "242",
+      "internalCode": "0242",
+      "name": "아현",
+      "nameEn": "Ahyeon",
+      "line": "2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "241",
+      "internalCode": "0241",
+      "name": "이대",
+      "nameEn": "Ewha Womans Univ.",
+      "line": "2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "240",
+      "internalCode": "0240",
+      "name": "신촌(지하)",
+      "nameEn": "Sinchon",
+      "line": "2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "239",
+      "internalCode": "0239",
+      "name": "홍대입구",
+      "nameEn": "Hongik Univ.",
+      "line": "2호선",
+      "isTransfer": true
+    },
+    {
+      "code": "234-4",
+      "internalCode": "0200",
+      "name": "까치산",
+      "nameEn": "Kkachisan",
+      "line": "2호선",
+      "isTransfer": true
+    },
+    {
+      "code": "210",
+      "internalCode": "0210",
+      "name": "뚝섬",
+      "nameEn": "Ttukseom",
+      "line": "2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "205",
+      "internalCode": "0205",
+      "name": "동대문역사문화공원",
+      "nameEn": "Dongdaemun History  Culture Park",
+      "line": "2호선",
+      "isTransfer": true
+    },
+    {
+      "code": "211",
+      "internalCode": "0211",
+      "name": "성수",
+      "nameEn": "Seongsu",
+      "line": "2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "211-3",
+      "internalCode": "0250",
+      "name": "용두",
+      "nameEn": "Yongdu",
+      "line": "2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "211-2",
+      "internalCode": "0245",
+      "name": "신답",
+      "nameEn": "Sindap",
+      "line": "2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "208",
+      "internalCode": "0208",
+      "name": "왕십리",
+      "nameEn": "Wangsimni",
+      "line": "2호선",
+      "isTransfer": true
+    },
+    {
+      "code": "209",
+      "internalCode": "0209",
+      "name": "한양대",
+      "nameEn": "Hanyang Univ.",
+      "line": "2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "206",
+      "internalCode": "0206",
+      "name": "신당",
+      "nameEn": "Sindang",
+      "line": "2호선",
+      "isTransfer": true
+    },
+    {
+      "code": "234-3",
+      "internalCode": "0249",
+      "name": "신정네거리",
+      "nameEn": "Sinjeongnegeori",
+      "line": "2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "207",
+      "internalCode": "0207",
+      "name": "상왕십리",
+      "nameEn": "Sangwangsimni",
+      "line": "2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "234-2",
+      "internalCode": "0248",
+      "name": "양천구청",
+      "nameEn": "Yangcheon-gu Office",
+      "line": "2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "212",
+      "internalCode": "0212",
+      "name": "건대입구",
+      "nameEn": "Konkuk Univ.",
+      "line": "2호선",
+      "isTransfer": true
+    },
+    {
+      "code": "234-1",
+      "internalCode": "0247",
+      "name": "도림천",
+      "nameEn": "Dorimcheon",
+      "line": "2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "203",
+      "internalCode": "0203",
+      "name": "을지로3가",
+      "nameEn": "Euljiro 3(sam)-ga",
+      "line": "2호선",
+      "isTransfer": true
+    },
+    {
+      "code": "202",
+      "internalCode": "0202",
+      "name": "을지로입구",
+      "nameEn": "Euljiro 1(il)-ga",
+      "line": "2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "211-4",
+      "internalCode": "0246",
+      "name": "신설동",
+      "nameEn": "Sinseol-dong",
+      "line": "2호선",
+      "isTransfer": true
+    },
+    {
+      "code": "222",
+      "internalCode": "0222",
+      "name": "강남",
+      "nameEn": "Gangnam",
+      "line": "2호선",
+      "isTransfer": true
+    },
+    {
+      "code": "320",
+      "internalCode": "0310",
+      "name": "구파발",
+      "nameEn": "Gupabal",
+      "line": "3호선",
+      "isTransfer": false
+    },
+    {
+      "code": "309",
+      "internalCode": "1958",
+      "name": "대화",
+      "nameEn": "Daehwa",
+      "line": "3호선",
+      "isTransfer": false
+    },
+    {
+      "code": "324",
+      "internalCode": "0314",
+      "name": "홍제",
+      "nameEn": "Hongje",
+      "line": "3호선",
+      "isTransfer": false
+    },
+    {
+      "code": "319",
+      "internalCode": "0309",
+      "name": "지축",
+      "nameEn": "Jichuk",
+      "line": "3호선",
+      "isTransfer": false
+    },
+    {
+      "code": "310",
+      "internalCode": "1957",
+      "name": "주엽",
+      "nameEn": "Juyeop",
+      "line": "3호선",
+      "isTransfer": false
+    },
+    {
+      "code": "316",
+      "internalCode": "1951",
+      "name": "원당",
+      "nameEn": "Wondang",
+      "line": "3호선",
+      "isTransfer": false
+    },
+    {
+      "code": "345",
+      "internalCode": "0335",
+      "name": "대치",
+      "nameEn": "Daechi",
+      "line": "3호선",
+      "isTransfer": false
+    },
+    {
+      "code": "344",
+      "internalCode": "0334",
+      "name": "도곡",
+      "nameEn": "Dogok",
+      "line": "3호선",
+      "isTransfer": true
+    },
+    {
+      "code": "351",
+      "internalCode": "0341",
+      "name": "경찰병원",
+      "nameEn": "National Police Hospital",
+      "line": "3호선",
+      "isTransfer": false
+    },
+    {
+      "code": "350",
+      "internalCode": "0340",
+      "name": "가락시장",
+      "nameEn": "Garak Market",
+      "line": "3호선",
+      "isTransfer": true
+    },
+    {
+      "code": "349",
+      "internalCode": "0339",
+      "name": "수서",
+      "nameEn": "Suseo",
+      "line": "3호선",
+      "isTransfer": true
+    },
+    {
+      "code": "348",
+      "internalCode": "0338",
+      "name": "일원",
+      "nameEn": "Irwon",
+      "line": "3호선",
+      "isTransfer": false
+    },
+    {
+      "code": "352",
+      "internalCode": "0342",
+      "name": "오금",
+      "nameEn": "Ogeum",
+      "line": "3호선",
+      "isTransfer": true
+    },
+    {
+      "code": "335",
+      "internalCode": "0325",
+      "name": "옥수",
+      "nameEn": "Oksu",
+      "line": "3호선",
+      "isTransfer": true
+    },
+    {
+      "code": "334",
+      "internalCode": "0324",
+      "name": "금호",
+      "nameEn": "Geumho",
+      "line": "3호선",
+      "isTransfer": false
+    },
+    {
+      "code": "337",
+      "internalCode": "0327",
+      "name": "신사",
+      "nameEn": "Sinsa",
+      "line": "3호선",
+      "isTransfer": true
+    },
+    {
+      "code": "347",
+      "internalCode": "0337",
+      "name": "대청",
+      "nameEn": "Daecheong",
+      "line": "3호선",
+      "isTransfer": false
+    },
+    {
+      "code": "312",
+      "internalCode": "1955",
+      "name": "마두",
+      "nameEn": "Madu",
+      "line": "3호선",
+      "isTransfer": false
+    },
+    {
+      "code": "313",
+      "internalCode": "1954",
+      "name": "백석",
+      "nameEn": "Baekseok",
+      "line": "3호선",
+      "isTransfer": false
+    },
+    {
+      "code": "314",
+      "internalCode": "1953",
+      "name": "대곡",
+      "nameEn": "Daegok",
+      "line": "3호선",
+      "isTransfer": true
+    },
+    {
+      "code": "346",
+      "internalCode": "0336",
+      "name": "학여울",
+      "nameEn": "Hangnyeoul",
+      "line": "3호선",
+      "isTransfer": false
+    },
+    {
+      "code": "326",
+      "internalCode": "0316",
+      "name": "독립문",
+      "nameEn": "Dongnimmun",
+      "line": "3호선",
+      "isTransfer": false
+    },
+    {
+      "code": "333",
+      "internalCode": "0323",
+      "name": "약수",
+      "nameEn": "Yaksu",
+      "line": "3호선",
+      "isTransfer": true
+    },
+    {
+      "code": "318",
+      "internalCode": "1950",
+      "name": "삼송",
+      "nameEn": "Samsong",
+      "line": "3호선",
+      "isTransfer": false
+    },
+    {
+      "code": "317",
+      "internalCode": "1948",
+      "name": "원흥",
+      "nameEn": "Wonheung",
+      "line": "3호선",
+      "isTransfer": false
+    },
+    {
+      "code": "321",
+      "internalCode": "0311",
+      "name": "연신내",
+      "nameEn": "Yeonsinnae",
+      "line": "3호선",
+      "isTransfer": true
+    },
+    {
+      "code": "343",
+      "internalCode": "0333",
+      "name": "매봉",
+      "nameEn": "Maebong",
+      "line": "3호선",
+      "isTransfer": false
+    },
+    {
+      "code": "325",
+      "internalCode": "0315",
+      "name": "무악재",
+      "nameEn": "Muakjae",
+      "line": "3호선",
+      "isTransfer": false
+    },
+    {
+      "code": "342",
+      "internalCode": "0332",
+      "name": "양재",
+      "nameEn": "Yangjae",
+      "line": "3호선",
+      "isTransfer": true
+    },
+    {
+      "code": "341",
+      "internalCode": "0331",
+      "name": "남부터미널",
+      "nameEn": "Nambu Bus Terminal",
+      "line": "3호선",
+      "isTransfer": false
+    },
+    {
+      "code": "340",
+      "internalCode": "0330",
+      "name": "교대",
+      "nameEn": "Seoul Nat`l Univ. of Education",
+      "line": "3호선",
+      "isTransfer": true
+    },
+    {
+      "code": "328",
+      "internalCode": "0318",
+      "name": "안국",
+      "nameEn": "Anguk",
+      "line": "3호선",
+      "isTransfer": false
+    },
+    {
+      "code": "311",
+      "internalCode": "1956",
+      "name": "정발산",
+      "nameEn": "Jeongbalsan",
+      "line": "3호선",
+      "isTransfer": false
+    },
+    {
+      "code": "315",
+      "internalCode": "1952",
+      "name": "화정",
+      "nameEn": "Hwajeong",
+      "line": "3호선",
+      "isTransfer": false
+    },
+    {
+      "code": "339",
+      "internalCode": "0329",
+      "name": "고속터미널",
+      "nameEn": "Express Bus Terminal",
+      "line": "3호선",
+      "isTransfer": true
+    },
+    {
+      "code": "338",
+      "internalCode": "0328",
+      "name": "잠원",
+      "nameEn": "Jamwon",
+      "line": "3호선",
+      "isTransfer": false
+    },
+    {
+      "code": "332",
+      "internalCode": "0322",
+      "name": "동대입구",
+      "nameEn": "Dongguk Univ.",
+      "line": "3호선",
+      "isTransfer": false
+    },
+    {
+      "code": "331",
+      "internalCode": "0321",
+      "name": "충무로",
+      "nameEn": "Chungmuro",
+      "line": "3호선",
+      "isTransfer": true
+    },
+    {
+      "code": "330",
+      "internalCode": "0320",
+      "name": "을지로3가",
+      "nameEn": "Euljiro 3(sam)-ga",
+      "line": "3호선",
+      "isTransfer": true
+    },
+    {
+      "code": "329",
+      "internalCode": "0319",
+      "name": "종로3가",
+      "nameEn": "Jongno 3(sam)-ga",
+      "line": "3호선",
+      "isTransfer": true
+    },
+    {
+      "code": "327",
+      "internalCode": "0317",
+      "name": "경복궁",
+      "nameEn": "Gyeongbokgung",
+      "line": "3호선",
+      "isTransfer": false
+    },
+    {
+      "code": "323",
+      "internalCode": "0313",
+      "name": "녹번",
+      "nameEn": "Nokbeon",
+      "line": "3호선",
+      "isTransfer": false
+    },
+    {
+      "code": "322",
+      "internalCode": "0312",
+      "name": "불광",
+      "nameEn": "Bulgwang",
+      "line": "3호선",
+      "isTransfer": true
+    },
+    {
+      "code": "336",
+      "internalCode": "0326",
+      "name": "압구정",
+      "nameEn": "Apgujeong",
+      "line": "3호선",
+      "isTransfer": false
+    },
+    {
+      "code": "413",
+      "internalCode": "0413",
+      "name": "쌍문",
+      "nameEn": "Ssangmun",
+      "line": "4호선",
+      "isTransfer": false
+    },
+    {
+      "code": "428",
+      "internalCode": "0428",
+      "name": "삼각지",
+      "nameEn": "Samgakji",
+      "line": "4호선",
+      "isTransfer": true
+    },
+    {
+      "code": "419",
+      "internalCode": "0419",
+      "name": "한성대입구",
+      "nameEn": "Hansung Univ.",
+      "line": "4호선",
+      "isTransfer": false
+    },
+    {
+      "code": "456",
+      "internalCode": "1762",
+      "name": "오이도",
+      "nameEn": "Oido",
+      "line": "4호선",
+      "isTransfer": true
+    },
+    {
+      "code": "418",
+      "internalCode": "0418",
+      "name": "성신여대입구",
+      "nameEn": "Sungshin Women`s Univ.",
+      "line": "4호선",
+      "isTransfer": true
+    },
+    {
+      "code": "420",
+      "internalCode": "0420",
+      "name": "혜화",
+      "nameEn": "Hyehwa",
+      "line": "4호선",
+      "isTransfer": false
+    },
+    {
+      "code": "421",
+      "internalCode": "0421",
+      "name": "동대문",
+      "nameEn": "Dongdaemun",
+      "line": "4호선",
+      "isTransfer": true
+    },
+    {
+      "code": "422",
+      "internalCode": "0422",
+      "name": "동대문역사문화공원",
+      "nameEn": "Dongdaemun History  Culture Park",
+      "line": "4호선",
+      "isTransfer": true
+    },
+    {
+      "code": "423",
+      "internalCode": "0423",
+      "name": "충무로",
+      "nameEn": "Chungmuro",
+      "line": "4호선",
+      "isTransfer": true
+    },
+    {
+      "code": "424",
+      "internalCode": "0424",
+      "name": "명동",
+      "nameEn": "Myeong-dong",
+      "line": "4호선",
+      "isTransfer": false
+    },
+    {
+      "code": "425",
+      "internalCode": "0425",
+      "name": "회현",
+      "nameEn": "Hoehyeon",
+      "line": "4호선",
+      "isTransfer": false
+    },
+    {
+      "code": "426",
+      "internalCode": "0426",
+      "name": "서울역",
+      "nameEn": "Seoul Station",
+      "line": "4호선",
+      "isTransfer": true
+    },
+    {
+      "code": "427",
+      "internalCode": "0427",
+      "name": "숙대입구",
+      "nameEn": "Sookmyung Women`s Univ.",
+      "line": "4호선",
+      "isTransfer": false
+    },
+    {
+      "code": "455",
+      "internalCode": "1761",
+      "name": "정왕",
+      "nameEn": "Jeongwang",
+      "line": "4호선",
+      "isTransfer": true
+    },
+    {
+      "code": "443",
+      "internalCode": "1458",
+      "name": "금정",
+      "nameEn": "Geumjeong",
+      "line": "4호선",
+      "isTransfer": true
+    },
+    {
+      "code": "442",
+      "internalCode": "1457",
+      "name": "범계",
+      "nameEn": "Beomgye",
+      "line": "4호선",
+      "isTransfer": false
+    },
+    {
+      "code": "441",
+      "internalCode": "1456",
+      "name": "평촌",
+      "nameEn": "Pyeongchon",
+      "line": "4호선",
+      "isTransfer": false
+    },
+    {
+      "code": "440",
+      "internalCode": "1455",
+      "name": "인덕원",
+      "nameEn": "Indeogwon",
+      "line": "4호선",
+      "isTransfer": false
+    },
+    {
+      "code": "432",
+      "internalCode": "0432",
+      "name": "이수",
+      "nameEn": "Isu",
+      "line": "4호선",
+      "isTransfer": true
+    },
+    {
+      "code": "433",
+      "internalCode": "0433",
+      "name": "사당",
+      "nameEn": "Sadang",
+      "line": "4호선",
+      "isTransfer": true
+    },
+    {
+      "code": "434",
+      "internalCode": "0434",
+      "name": "남태령",
+      "nameEn": "Namtaeryeong",
+      "line": "4호선",
+      "isTransfer": false
+    },
+    {
+      "code": "431",
+      "internalCode": "0431",
+      "name": "동작",
+      "nameEn": "Dongjak",
+      "line": "4호선",
+      "isTransfer": true
+    },
+    {
+      "code": "430",
+      "internalCode": "0430",
+      "name": "이촌",
+      "nameEn": "Ichon",
+      "line": "4호선",
+      "isTransfer": true
+    },
+    {
+      "code": "429",
+      "internalCode": "0429",
+      "name": "신용산",
+      "nameEn": "Sinyongsan",
+      "line": "4호선",
+      "isTransfer": false
+    },
+    {
+      "code": "405",
+      "internalCode": "0405",
+      "name": "진접",
+      "nameEn": "Jinjeop",
+      "line": "4호선",
+      "isTransfer": false
+    },
+    {
+      "code": "406",
+      "internalCode": "0406",
+      "name": "오남",
+      "nameEn": "Onam",
+      "line": "4호선",
+      "isTransfer": false
+    },
+    {
+      "code": "409",
+      "internalCode": "0409",
+      "name": "불암산",
+      "nameEn": "Buramsan",
+      "line": "4호선",
+      "isTransfer": false
+    },
+    {
+      "code": "435",
+      "internalCode": "1450",
+      "name": "선바위",
+      "nameEn": "Seonbawi",
+      "line": "4호선",
+      "isTransfer": false
+    },
+    {
+      "code": "436",
+      "internalCode": "1451",
+      "name": "경마공원",
+      "nameEn": "Seoul Racecourse Park",
+      "line": "4호선",
+      "isTransfer": false
+    },
+    {
+      "code": "437",
+      "internalCode": "1452",
+      "name": "대공원",
+      "nameEn": "Seoul Grand Park",
+      "line": "4호선",
+      "isTransfer": false
+    },
+    {
+      "code": "438",
+      "internalCode": "1453",
+      "name": "과천",
+      "nameEn": "Gwacheon",
+      "line": "4호선",
+      "isTransfer": false
+    },
+    {
+      "code": "408",
+      "internalCode": "0408",
+      "name": "별내별가람",
+      "nameEn": "Byeollae Byeolgaram",
+      "line": "4호선",
+      "isTransfer": false
+    },
+    {
+      "code": "450",
+      "internalCode": "1756",
+      "name": "중앙",
+      "nameEn": "Jungang",
+      "line": "4호선",
+      "isTransfer": true
+    },
+    {
+      "code": "449",
+      "internalCode": "1755",
+      "name": "한대앞",
+      "nameEn": "Hanyang Univ. at Ansan",
+      "line": "4호선",
+      "isTransfer": true
+    },
+    {
+      "code": "448",
+      "internalCode": "1754",
+      "name": "상록수",
+      "nameEn": "Sangnoksu",
+      "line": "4호선",
+      "isTransfer": false
+    },
+    {
+      "code": "447",
+      "internalCode": "1753",
+      "name": "반월",
+      "nameEn": "Banwol",
+      "line": "4호선",
+      "isTransfer": false
+    },
+    {
+      "code": "446",
+      "internalCode": "1752",
+      "name": "대야미",
+      "nameEn": "Daeyami",
+      "line": "4호선",
+      "isTransfer": false
+    },
+    {
+      "code": "444",
+      "internalCode": "1751",
+      "name": "산본",
+      "nameEn": "Sanbon",
+      "line": "4호선",
+      "isTransfer": false
+    },
+    {
+      "code": "410",
+      "internalCode": "0410",
+      "name": "상계",
+      "nameEn": "Sanggye",
+      "line": "4호선",
+      "isTransfer": false
+    },
+    {
+      "code": "439",
+      "internalCode": "1454",
+      "name": "정부과천청사",
+      "nameEn": "Government Complex Gwacheon",
+      "line": "4호선",
+      "isTransfer": false
+    },
+    {
+      "code": "411",
+      "internalCode": "0411",
+      "name": "노원",
+      "nameEn": "Nowon",
+      "line": "4호선",
+      "isTransfer": true
+    },
+    {
+      "code": "412",
+      "internalCode": "0412",
+      "name": "창동",
+      "nameEn": "Chang-dong",
+      "line": "4호선",
+      "isTransfer": true
+    },
+    {
+      "code": "414",
+      "internalCode": "0414",
+      "name": "수유",
+      "nameEn": "Suyu",
+      "line": "4호선",
+      "isTransfer": false
+    },
+    {
+      "code": "445",
+      "internalCode": "1763",
+      "name": "수리산",
+      "nameEn": "Surisan",
+      "line": "4호선",
+      "isTransfer": false
+    },
+    {
+      "code": "453",
+      "internalCode": "1759",
+      "name": "안산",
+      "nameEn": "Ansan",
+      "line": "4호선",
+      "isTransfer": true
+    },
+    {
+      "code": "452",
+      "internalCode": "1758",
+      "name": "초지",
+      "nameEn": "Choji",
+      "line": "4호선",
+      "isTransfer": true
+    },
+    {
+      "code": "451",
+      "internalCode": "1757",
+      "name": "고잔",
+      "nameEn": "Gojan",
+      "line": "4호선",
+      "isTransfer": true
+    },
+    {
+      "code": "415",
+      "internalCode": "0415",
+      "name": "미아",
+      "nameEn": "Mia",
+      "line": "4호선",
+      "isTransfer": false
+    },
+    {
+      "code": "416",
+      "internalCode": "0416",
+      "name": "미아사거리",
+      "nameEn": "Miasageori",
+      "line": "4호선",
+      "isTransfer": false
+    },
+    {
+      "code": "417",
+      "internalCode": "0417",
+      "name": "길음",
+      "nameEn": "Gireum",
+      "line": "4호선",
+      "isTransfer": false
+    },
+    {
+      "code": "454",
+      "internalCode": "1760",
+      "name": "신길온천",
+      "nameEn": "Neunggil",
+      "line": "4호선",
+      "isTransfer": true
+    },
+    {
+      "code": "524",
+      "internalCode": "2525",
+      "name": "영등포시장",
+      "nameEn": "Yeongdeungpo Market",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "523",
+      "internalCode": "2524",
+      "name": "영등포구청",
+      "nameEn": "Yeongdeungpo-gu Office",
+      "line": "5호선",
+      "isTransfer": true
+    },
+    {
+      "code": "526",
+      "internalCode": "2527",
+      "name": "여의도",
+      "nameEn": "Yeouido",
+      "line": "5호선",
+      "isTransfer": true
+    },
+    {
+      "code": "528",
+      "internalCode": "2529",
+      "name": "마포",
+      "nameEn": "Mapo",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "529",
+      "internalCode": "2530",
+      "name": "공덕",
+      "nameEn": "Gongdeok",
+      "line": "5호선",
+      "isTransfer": true
+    },
+    {
+      "code": "530",
+      "internalCode": "2531",
+      "name": "애오개",
+      "nameEn": "Aeogae",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "531",
+      "internalCode": "2532",
+      "name": "충정로",
+      "nameEn": "Chungjeongno",
+      "line": "5호선",
+      "isTransfer": true
+    },
+    {
+      "code": "532",
+      "internalCode": "2533",
+      "name": "서대문",
+      "nameEn": "Seodaemun",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "533",
+      "internalCode": "2534",
+      "name": "광화문",
+      "nameEn": "Gwanghwamun",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "536",
+      "internalCode": "2537",
+      "name": "동대문역사문화공원",
+      "nameEn": "Dongdaemun History  Culture Park",
+      "line": "5호선",
+      "isTransfer": true
+    },
+    {
+      "code": "537",
+      "internalCode": "2538",
+      "name": "청구",
+      "nameEn": "Cheonggu",
+      "line": "5호선",
+      "isTransfer": true
+    },
+    {
+      "code": "538",
+      "internalCode": "2539",
+      "name": "신금호",
+      "nameEn": "Singeumho",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "541",
+      "internalCode": "2542",
+      "name": "마장",
+      "nameEn": "Majang",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "542",
+      "internalCode": "2543",
+      "name": "답십리",
+      "nameEn": "Dapsimni",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "543",
+      "internalCode": "2544",
+      "name": "장한평",
+      "nameEn": "Janghanpyeong",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "544",
+      "internalCode": "2545",
+      "name": "군자",
+      "nameEn": "Gunja",
+      "line": "5호선",
+      "isTransfer": true
+    },
+    {
+      "code": "545",
+      "internalCode": "2546",
+      "name": "아차산",
+      "nameEn": "Achasan",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "546",
+      "internalCode": "2547",
+      "name": "광나루",
+      "nameEn": "Gwangnaru",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "547",
+      "internalCode": "2548",
+      "name": "천호",
+      "nameEn": "Cheonho",
+      "line": "5호선",
+      "isTransfer": true
+    },
+    {
+      "code": "549",
+      "internalCode": "2550",
+      "name": "길동",
+      "nameEn": "Gil-dong",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "550",
+      "internalCode": "2551",
+      "name": "굽은다리",
+      "nameEn": "Gubeundari",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "551",
+      "internalCode": "2552",
+      "name": "명일",
+      "nameEn": "Myeongil",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "552",
+      "internalCode": "2553",
+      "name": "고덕",
+      "nameEn": "Godeok",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "553",
+      "internalCode": "2554",
+      "name": "상일동",
+      "nameEn": "Sangil-dong",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "520",
+      "internalCode": "2521",
+      "name": "목동",
+      "nameEn": "Mok-dong",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "521",
+      "internalCode": "2522",
+      "name": "오목교",
+      "nameEn": "Omokgyo",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "522",
+      "internalCode": "2523",
+      "name": "양평(5호선)",
+      "nameEn": "Yangpyeong",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P549",
+      "internalCode": "2555",
+      "name": "둔촌동",
+      "nameEn": "Dunchon-dong",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P550",
+      "internalCode": "2556",
+      "name": "올림픽공원",
+      "nameEn": "Olympic Park",
+      "line": "5호선",
+      "isTransfer": true
+    },
+    {
+      "code": "P551",
+      "internalCode": "2557",
+      "name": "방이",
+      "nameEn": "Bangi",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "555",
+      "internalCode": "2563",
+      "name": "미사",
+      "nameEn": "Misa",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "556",
+      "internalCode": "2564",
+      "name": "하남풍산",
+      "nameEn": "Hanam Pungsan",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "557",
+      "internalCode": "2565",
+      "name": "하남시청",
+      "nameEn": "Hanam City Hall",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "527",
+      "internalCode": "2528",
+      "name": "여의나루",
+      "nameEn": "Yeouinaru",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P552",
+      "internalCode": "2558",
+      "name": "오금",
+      "nameEn": "Ogeum",
+      "line": "5호선",
+      "isTransfer": true
+    },
+    {
+      "code": "P553",
+      "internalCode": "2559",
+      "name": "개롱",
+      "nameEn": "Gaerong",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "517",
+      "internalCode": "2518",
+      "name": "화곡",
+      "nameEn": "Hwagok",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "539",
+      "internalCode": "2540",
+      "name": "행당",
+      "nameEn": "Haengdang",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "540",
+      "internalCode": "2541",
+      "name": "왕십리",
+      "nameEn": "Wangsimni",
+      "line": "5호선",
+      "isTransfer": true
+    },
+    {
+      "code": "P554",
+      "internalCode": "2560",
+      "name": "거여",
+      "nameEn": "Geoyeo",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "P555",
+      "internalCode": "2561",
+      "name": "마천",
+      "nameEn": "Macheon",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "554",
+      "internalCode": "2562",
+      "name": "강일",
+      "nameEn": "Gangil",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "558",
+      "internalCode": "2566",
+      "name": "하남검단산",
+      "nameEn": "Hanam Geomdansan",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "519",
+      "internalCode": "2520",
+      "name": "신정",
+      "nameEn": "Sinjeong",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "514",
+      "internalCode": "2515",
+      "name": "마곡",
+      "nameEn": "Magok",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "515",
+      "internalCode": "2516",
+      "name": "발산",
+      "nameEn": "Balsan",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "516",
+      "internalCode": "2517",
+      "name": "우장산",
+      "nameEn": "Ujangsan",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "518",
+      "internalCode": "2519",
+      "name": "까치산",
+      "nameEn": "Kkachisan",
+      "line": "5호선",
+      "isTransfer": true
+    },
+    {
+      "code": "525",
+      "internalCode": "2526",
+      "name": "신길",
+      "nameEn": "Singil",
+      "line": "5호선",
+      "isTransfer": true
+    },
+    {
+      "code": "535",
+      "internalCode": "2536",
+      "name": "을지로4가",
+      "nameEn": "Euljiro 4(sa)-ga",
+      "line": "5호선",
+      "isTransfer": true
+    },
+    {
+      "code": "510",
+      "internalCode": "2511",
+      "name": "방화",
+      "nameEn": "Banghwa",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "511",
+      "internalCode": "2512",
+      "name": "개화산",
+      "nameEn": "Gaehwasan",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "512",
+      "internalCode": "2513",
+      "name": "김포공항",
+      "nameEn": "Gimpo Intl. Airport",
+      "line": "5호선",
+      "isTransfer": true
+    },
+    {
+      "code": "513",
+      "internalCode": "2514",
+      "name": "송정",
+      "nameEn": "Songjeong",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "548",
+      "internalCode": "2549",
+      "name": "강동",
+      "nameEn": "Gangdong",
+      "line": "5호선",
+      "isTransfer": false
+    },
+    {
+      "code": "534",
+      "internalCode": "2535",
+      "name": "종로3가",
+      "nameEn": "Jongno 3(sam)-ga",
+      "line": "5호선",
+      "isTransfer": true
+    },
+    {
+      "code": "636",
+      "internalCode": "2637",
+      "name": "동묘앞",
+      "nameEn": "Dongmyo",
+      "line": "6호선",
+      "isTransfer": true
+    },
+    {
+      "code": "615",
+      "internalCode": "2616",
+      "name": "구산",
+      "nameEn": "Gusan",
+      "line": "6호선",
+      "isTransfer": false
+    },
+    {
+      "code": "611",
+      "internalCode": "2612",
+      "name": "역촌",
+      "nameEn": "Yeokchon",
+      "line": "6호선",
+      "isTransfer": false
+    },
+    {
+      "code": "626",
+      "internalCode": "2627",
+      "name": "공덕",
+      "nameEn": "Gongdeok",
+      "line": "6호선",
+      "isTransfer": true
+    },
+    {
+      "code": "625",
+      "internalCode": "2626",
+      "name": "대흥",
+      "nameEn": "Daeheung",
+      "line": "6호선",
+      "isTransfer": false
+    },
+    {
+      "code": "610",
+      "internalCode": "2611",
+      "name": "응암",
+      "nameEn": "Eungam",
+      "line": "6호선",
+      "isTransfer": false
+    },
+    {
+      "code": "620",
+      "internalCode": "2621",
+      "name": "마포구청",
+      "nameEn": "Mapo-gu Office",
+      "line": "6호선",
+      "isTransfer": false
+    },
+    {
+      "code": "640",
+      "internalCode": "2641",
+      "name": "고려대",
+      "nameEn": "Korea Univ.",
+      "line": "6호선",
+      "isTransfer": false
+    },
+    {
+      "code": "641",
+      "internalCode": "2642",
+      "name": "월곡",
+      "nameEn": "Wolgok",
+      "line": "6호선",
+      "isTransfer": false
+    },
+    {
+      "code": "643",
+      "internalCode": "2644",
+      "name": "돌곶이",
+      "nameEn": "Dolgoji",
+      "line": "6호선",
+      "isTransfer": false
+    },
+    {
+      "code": "642",
+      "internalCode": "2643",
+      "name": "상월곡",
+      "nameEn": "Sangwolgok",
+      "line": "6호선",
+      "isTransfer": false
+    },
+    {
+      "code": "622",
+      "internalCode": "2623",
+      "name": "합정",
+      "nameEn": "Hapjeong",
+      "line": "6호선",
+      "isTransfer": true
+    },
+    {
+      "code": "646",
+      "internalCode": "2647",
+      "name": "화랑대",
+      "nameEn": "Hwarangdae",
+      "line": "6호선",
+      "isTransfer": false
+    },
+    {
+      "code": "647",
+      "internalCode": "2648",
+      "name": "봉화산",
+      "nameEn": "Bonghwasan",
+      "line": "6호선",
+      "isTransfer": false
+    },
+    {
+      "code": "639",
+      "internalCode": "2640",
+      "name": "안암",
+      "nameEn": "Anam",
+      "line": "6호선",
+      "isTransfer": false
+    },
+    {
+      "code": "638",
+      "internalCode": "2639",
+      "name": "보문",
+      "nameEn": "Bomun",
+      "line": "6호선",
+      "isTransfer": true
+    },
+    {
+      "code": "637",
+      "internalCode": "2638",
+      "name": "창신",
+      "nameEn": "Changsin",
+      "line": "6호선",
+      "isTransfer": false
+    },
+    {
+      "code": "612",
+      "internalCode": "2613",
+      "name": "불광",
+      "nameEn": "Bulgwang",
+      "line": "6호선",
+      "isTransfer": true
+    },
+    {
+      "code": "613",
+      "internalCode": "2614",
+      "name": "독바위",
+      "nameEn": "Dokbawi",
+      "line": "6호선",
+      "isTransfer": false
+    },
+    {
+      "code": "616",
+      "internalCode": "2617",
+      "name": "새절",
+      "nameEn": "Saejeol",
+      "line": "6호선",
+      "isTransfer": false
+    },
+    {
+      "code": "614",
+      "internalCode": "2615",
+      "name": "연신내",
+      "nameEn": "Yeonsinnae",
+      "line": "6호선",
+      "isTransfer": true
+    },
+    {
+      "code": "635",
+      "internalCode": "2636",
+      "name": "신당",
+      "nameEn": "Sindang",
+      "line": "6호선",
+      "isTransfer": true
+    },
+    {
+      "code": "634",
+      "internalCode": "2635",
+      "name": "청구",
+      "nameEn": "Cheonggu",
+      "line": "6호선",
+      "isTransfer": true
+    },
+    {
+      "code": "633",
+      "internalCode": "2634",
+      "name": "약수",
+      "nameEn": "Yaksu",
+      "line": "6호선",
+      "isTransfer": true
+    },
+    {
+      "code": "617",
+      "internalCode": "2618",
+      "name": "증산",
+      "nameEn": "Jeungsan",
+      "line": "6호선",
+      "isTransfer": false
+    },
+    {
+      "code": "618",
+      "internalCode": "2619",
+      "name": "디지털미디어시티",
+      "nameEn": "Digital Media City",
+      "line": "6호선",
+      "isTransfer": true
+    },
+    {
+      "code": "619",
+      "internalCode": "2620",
+      "name": "월드컵경기장",
+      "nameEn": "World Cup Stadium",
+      "line": "6호선",
+      "isTransfer": false
+    },
+    {
+      "code": "621",
+      "internalCode": "2622",
+      "name": "망원",
+      "nameEn": "Mangwon",
+      "line": "6호선",
+      "isTransfer": false
+    },
+    {
+      "code": "623",
+      "internalCode": "2624",
+      "name": "상수",
+      "nameEn": "Sangsu",
+      "line": "6호선",
+      "isTransfer": false
+    },
+    {
+      "code": "624",
+      "internalCode": "2625",
+      "name": "광흥창",
+      "nameEn": "Gwangheungchang",
+      "line": "6호선",
+      "isTransfer": false
+    },
+    {
+      "code": "627",
+      "internalCode": "2628",
+      "name": "효창공원앞",
+      "nameEn": "Hyochang park",
+      "line": "6호선",
+      "isTransfer": true
+    },
+    {
+      "code": "628",
+      "internalCode": "2629",
+      "name": "삼각지",
+      "nameEn": "Samgakji",
+      "line": "6호선",
+      "isTransfer": true
+    },
+    {
+      "code": "629",
+      "internalCode": "2630",
+      "name": "녹사평",
+      "nameEn": "Noksapyeong",
+      "line": "6호선",
+      "isTransfer": false
+    },
+    {
+      "code": "630",
+      "internalCode": "2631",
+      "name": "이태원",
+      "nameEn": "Itaewon",
+      "line": "6호선",
+      "isTransfer": false
+    },
+    {
+      "code": "631",
+      "internalCode": "2632",
+      "name": "한강진",
+      "nameEn": "Hangangjin",
+      "line": "6호선",
+      "isTransfer": false
+    },
+    {
+      "code": "632",
+      "internalCode": "2633",
+      "name": "버티고개",
+      "nameEn": "Beotigogae",
+      "line": "6호선",
+      "isTransfer": false
+    },
+    {
+      "code": "644",
+      "internalCode": "2645",
+      "name": "석계",
+      "nameEn": "Seokgye",
+      "line": "6호선",
+      "isTransfer": true
+    },
+    {
+      "code": "645",
+      "internalCode": "2646",
+      "name": "태릉입구",
+      "nameEn": "Taereung",
+      "line": "6호선",
+      "isTransfer": true
+    },
+    {
+      "code": "648",
+      "internalCode": "2649",
+      "name": "신내",
+      "nameEn": "Sinnae",
+      "line": "6호선",
+      "isTransfer": true
+    },
+    {
+      "code": "722",
+      "internalCode": "2724",
+      "name": "사가정",
+      "nameEn": "Sagajeong",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "710",
+      "internalCode": "2712",
+      "name": "도봉산",
+      "nameEn": "Dobongsan",
+      "line": "7호선",
+      "isTransfer": true
+    },
+    {
+      "code": "753",
+      "internalCode": "3755",
+      "name": "춘의",
+      "nameEn": "Chunui",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "744",
+      "internalCode": "2746",
+      "name": "대림",
+      "nameEn": "Daerim",
+      "line": "7호선",
+      "isTransfer": true
+    },
+    {
+      "code": "743",
+      "internalCode": "2745",
+      "name": "신풍",
+      "nameEn": "Sinpung",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "742",
+      "internalCode": "2744",
+      "name": "보라매",
+      "nameEn": "Boramae",
+      "line": "7호선",
+      "isTransfer": true
+    },
+    {
+      "code": "741",
+      "internalCode": "2743",
+      "name": "신대방삼거리",
+      "nameEn": "Sindaebangsamgeori",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "736",
+      "internalCode": "2738",
+      "name": "이수",
+      "nameEn": "Isu",
+      "line": "7호선",
+      "isTransfer": true
+    },
+    {
+      "code": "735",
+      "internalCode": "2737",
+      "name": "내방",
+      "nameEn": "Naebang",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "734",
+      "internalCode": "2736",
+      "name": "고속터미널",
+      "nameEn": "Express Bus Terminal",
+      "line": "7호선",
+      "isTransfer": true
+    },
+    {
+      "code": "755",
+      "internalCode": "3757",
+      "name": "부천시청",
+      "nameEn": "Bucheon City Hall",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "725",
+      "internalCode": "2727",
+      "name": "군자",
+      "nameEn": "Gunja",
+      "line": "7호선",
+      "isTransfer": true
+    },
+    {
+      "code": "720",
+      "internalCode": "2722",
+      "name": "상봉",
+      "nameEn": "Sangbong",
+      "line": "7호선",
+      "isTransfer": true
+    },
+    {
+      "code": "756",
+      "internalCode": "3758",
+      "name": "상동",
+      "nameEn": "Sang-dong",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "757",
+      "internalCode": "3759",
+      "name": "삼산체육관",
+      "nameEn": "Samsan Gymnasium",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "758",
+      "internalCode": "3760",
+      "name": "굴포천",
+      "nameEn": "Gulpocheon",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "760",
+      "internalCode": "3762",
+      "name": "산곡",
+      "nameEn": "Sangok",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "761",
+      "internalCode": "3763",
+      "name": "석남",
+      "nameEn": "Seongnam",
+      "line": "7호선",
+      "isTransfer": true
+    },
+    {
+      "code": "719",
+      "internalCode": "2721",
+      "name": "중화",
+      "nameEn": "Junghwa",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "730",
+      "internalCode": "2732",
+      "name": "강남구청",
+      "nameEn": "Gangnam-gu Office",
+      "line": "7호선",
+      "isTransfer": true
+    },
+    {
+      "code": "729",
+      "internalCode": "2731",
+      "name": "청담",
+      "nameEn": "Cheongdam",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "733",
+      "internalCode": "2735",
+      "name": "반포",
+      "nameEn": "Banpo",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "738",
+      "internalCode": "2740",
+      "name": "숭실대입구",
+      "nameEn": "Soongsil Univ.",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "717",
+      "internalCode": "2719",
+      "name": "태릉입구",
+      "nameEn": "Taereung",
+      "line": "7호선",
+      "isTransfer": true
+    },
+    {
+      "code": "716",
+      "internalCode": "2718",
+      "name": "공릉",
+      "nameEn": "Gongneung",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "715",
+      "internalCode": "2717",
+      "name": "하계",
+      "nameEn": "Hagye",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "712",
+      "internalCode": "2714",
+      "name": "마들",
+      "nameEn": "Madeul",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "711",
+      "internalCode": "2713",
+      "name": "수락산",
+      "nameEn": "Suraksan",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "737",
+      "internalCode": "2739",
+      "name": "남성",
+      "nameEn": "Namseong",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "748",
+      "internalCode": "2750",
+      "name": "광명사거리",
+      "nameEn": "Gwangmyeongsageori",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "727",
+      "internalCode": "2729",
+      "name": "건대입구",
+      "nameEn": "Konkuk Univ.",
+      "line": "7호선",
+      "isTransfer": true
+    },
+    {
+      "code": "726",
+      "internalCode": "2728",
+      "name": "어린이대공원",
+      "nameEn": "Children's Grand Park",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "724",
+      "internalCode": "2726",
+      "name": "중곡",
+      "nameEn": "Junggok",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "723",
+      "internalCode": "2725",
+      "name": "용마산",
+      "nameEn": "Yongmasan",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "749",
+      "internalCode": "2751",
+      "name": "천왕",
+      "nameEn": "Cheonwang",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "750",
+      "internalCode": "2752",
+      "name": "온수",
+      "nameEn": "Onsu",
+      "line": "7호선",
+      "isTransfer": true
+    },
+    {
+      "code": "754",
+      "internalCode": "3756",
+      "name": "신중동",
+      "nameEn": "Sinjung-dong",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "714",
+      "internalCode": "2716",
+      "name": "중계",
+      "nameEn": "Junggye",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "713",
+      "internalCode": "2715",
+      "name": "노원",
+      "nameEn": "Nowon",
+      "line": "7호선",
+      "isTransfer": true
+    },
+    {
+      "code": "728",
+      "internalCode": "2730",
+      "name": "자양",
+      "nameEn": "Jayang",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "718",
+      "internalCode": "2720",
+      "name": "먹골",
+      "nameEn": "Meokgol",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "709",
+      "internalCode": "2711",
+      "name": "장암",
+      "nameEn": "Jangam",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "759",
+      "internalCode": "3761",
+      "name": "부평구청",
+      "nameEn": "Bupyeong-gu Office",
+      "line": "7호선",
+      "isTransfer": true
+    },
+    {
+      "code": "751",
+      "internalCode": "3753",
+      "name": "까치울",
+      "nameEn": "Kkachiul",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "752",
+      "internalCode": "3754",
+      "name": "부천종합운동장",
+      "nameEn": "Bucheon Stadium",
+      "line": "7호선",
+      "isTransfer": true
+    },
+    {
+      "code": "721",
+      "internalCode": "2723",
+      "name": "면목",
+      "nameEn": "Myeonmok",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "746",
+      "internalCode": "2748",
+      "name": "가산디지털단지",
+      "nameEn": "Gasan Digital Complex",
+      "line": "7호선",
+      "isTransfer": true
+    },
+    {
+      "code": "731",
+      "internalCode": "2733",
+      "name": "학동",
+      "nameEn": "Hak-dong",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "732",
+      "internalCode": "2734",
+      "name": "논현",
+      "nameEn": "Nonhyeon",
+      "line": "7호선",
+      "isTransfer": true
+    },
+    {
+      "code": "745",
+      "internalCode": "2747",
+      "name": "남구로",
+      "nameEn": "Namguro",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "747",
+      "internalCode": "2749",
+      "name": "철산",
+      "nameEn": "Cheolsan",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "740",
+      "internalCode": "2742",
+      "name": "장승배기",
+      "nameEn": "Jangseungbaegi",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "739",
+      "internalCode": "2741",
+      "name": "상도",
+      "nameEn": "Sangdo",
+      "line": "7호선",
+      "isTransfer": false
+    },
+    {
+      "code": "817",
+      "internalCode": "2818",
+      "name": "가락시장",
+      "nameEn": "Garak Market",
+      "line": "8호선",
+      "isTransfer": true
+    },
+    {
+      "code": "819",
+      "internalCode": "2820",
+      "name": "장지",
+      "nameEn": "Jangji",
+      "line": "8호선",
+      "isTransfer": false
+    },
+    {
+      "code": "820",
+      "internalCode": "2821",
+      "name": "복정",
+      "nameEn": "Bokjeong",
+      "line": "8호선",
+      "isTransfer": true
+    },
+    {
+      "code": "827",
+      "internalCode": "2827",
+      "name": "모란",
+      "nameEn": "Moran",
+      "line": "8호선",
+      "isTransfer": true
+    },
+    {
+      "code": "826",
+      "internalCode": "2826",
+      "name": "수진",
+      "nameEn": "Sujin",
+      "line": "8호선",
+      "isTransfer": false
+    },
+    {
+      "code": "825",
+      "internalCode": "2825",
+      "name": "신흥",
+      "nameEn": "Sinheung",
+      "line": "8호선",
+      "isTransfer": false
+    },
+    {
+      "code": "824",
+      "internalCode": "2824",
+      "name": "단대오거리",
+      "nameEn": "Dandaeogeori",
+      "line": "8호선",
+      "isTransfer": false
+    },
+    {
+      "code": "823",
+      "internalCode": "2823",
+      "name": "남한산성입구",
+      "nameEn": "Namhansanseong",
+      "line": "8호선",
+      "isTransfer": false
+    },
+    {
+      "code": "822",
+      "internalCode": "2822",
+      "name": "산성",
+      "nameEn": "Sanseong",
+      "line": "8호선",
+      "isTransfer": false
+    },
+    {
+      "code": "815",
+      "internalCode": "2816",
+      "name": "석촌",
+      "nameEn": "Seokchon",
+      "line": "8호선",
+      "isTransfer": true
+    },
+    {
+      "code": "807",
+      "internalCode": "2808",
+      "name": "구리",
+      "nameEn": "Guri",
+      "line": "8호선",
+      "isTransfer": true
+    },
+    {
+      "code": "812",
+      "internalCode": "2813",
+      "name": "강동구청",
+      "nameEn": "Gangdong-gu Office",
+      "line": "8호선",
+      "isTransfer": false
+    },
+    {
+      "code": "811",
+      "internalCode": "2812",
+      "name": "천호",
+      "nameEn": "Cheonho",
+      "line": "8호선",
+      "isTransfer": true
+    },
+    {
+      "code": "804",
+      "internalCode": "2805",
+      "name": "별내",
+      "nameEn": "Byeollae",
+      "line": "8호선",
+      "isTransfer": true
+    },
+    {
+      "code": "810",
+      "internalCode": "2811",
+      "name": "암사",
+      "nameEn": "Amsa",
+      "line": "8호선",
+      "isTransfer": false
+    },
+    {
+      "code": "806",
+      "internalCode": "2807",
+      "name": "동구릉",
+      "nameEn": "Donggureung",
+      "line": "8호선",
+      "isTransfer": false
+    },
+    {
+      "code": "805",
+      "internalCode": "2806",
+      "name": "다산",
+      "nameEn": "Dasan",
+      "line": "8호선",
+      "isTransfer": false
+    },
+    {
+      "code": "808",
+      "internalCode": "2809",
+      "name": "장자호수공원",
+      "nameEn": "Jangja Lake Park",
+      "line": "8호선",
+      "isTransfer": false
+    },
+    {
+      "code": "816",
+      "internalCode": "2817",
+      "name": "송파",
+      "nameEn": "Songpa",
+      "line": "8호선",
+      "isTransfer": false
+    },
+    {
+      "code": "818",
+      "internalCode": "2819",
+      "name": "문정",
+      "nameEn": "Munjeong",
+      "line": "8호선",
+      "isTransfer": false
+    },
+    {
+      "code": "821",
+      "internalCode": "2828",
+      "name": "남위례",
+      "nameEn": "Namwirye",
+      "line": "8호선",
+      "isTransfer": false
+    },
+    {
+      "code": "809",
+      "internalCode": "2810",
+      "name": "암사역사공원",
+      "nameEn": "Amsa History Park",
+      "line": "8호선",
+      "isTransfer": false
+    },
+    {
+      "code": "814",
+      "internalCode": "2815",
+      "name": "잠실",
+      "nameEn": "Jamsil",
+      "line": "8호선",
+      "isTransfer": true
+    },
+    {
+      "code": "813",
+      "internalCode": "2814",
+      "name": "몽촌토성",
+      "nameEn": "Mongchontoseong",
+      "line": "8호선",
+      "isTransfer": false
+    },
+    {
+      "code": "911",
+      "internalCode": "4111",
+      "name": "신목동",
+      "nameEn": "Sinmokdong",
+      "line": "9호선",
+      "isTransfer": false
+    },
+    {
+      "code": "936",
+      "internalCode": "4136",
+      "name": "올림픽공원",
+      "nameEn": "Olympic Park",
+      "line": "9호선",
+      "isTransfer": true
+    },
+    {
+      "code": "935",
+      "internalCode": "4135",
+      "name": "한성백제",
+      "nameEn": "Hanseong Baekje",
+      "line": "9호선",
+      "isTransfer": false
+    },
+    {
+      "code": "917",
+      "internalCode": "4117",
+      "name": "노량진",
+      "nameEn": "Noryangjin",
+      "line": "9호선",
+      "isTransfer": true
+    },
+    {
+      "code": "916",
+      "internalCode": "4116",
+      "name": "샛강",
+      "nameEn": "Saetgang",
+      "line": "9호선",
+      "isTransfer": true
+    },
+    {
+      "code": "915",
+      "internalCode": "4115",
+      "name": "여의도",
+      "nameEn": "Yeouido",
+      "line": "9호선",
+      "isTransfer": true
+    },
+    {
+      "code": "914",
+      "internalCode": "4114",
+      "name": "국회의사당",
+      "nameEn": "National Assembly",
+      "line": "9호선",
+      "isTransfer": false
+    },
+    {
+      "code": "910",
+      "internalCode": "4110",
+      "name": "염창",
+      "nameEn": "Yeomchang",
+      "line": "9호선",
+      "isTransfer": false
+    },
+    {
+      "code": "909",
+      "internalCode": "4109",
+      "name": "등촌",
+      "nameEn": "Deungchon",
+      "line": "9호선",
+      "isTransfer": false
+    },
+    {
+      "code": "908",
+      "internalCode": "4108",
+      "name": "증미",
+      "nameEn": "Jeungmi",
+      "line": "9호선",
+      "isTransfer": false
+    },
+    {
+      "code": "907",
+      "internalCode": "4107",
+      "name": "가양",
+      "nameEn": "Gayang",
+      "line": "9호선",
+      "isTransfer": false
+    },
+    {
+      "code": "906",
+      "internalCode": "4106",
+      "name": "양천향교",
+      "nameEn": "Yangcheon Hyanggyo",
+      "line": "9호선",
+      "isTransfer": false
+    },
+    {
+      "code": "905",
+      "internalCode": "4105",
+      "name": "마곡나루",
+      "nameEn": "Magongnaru",
+      "line": "9호선",
+      "isTransfer": true
+    },
+    {
+      "code": "934",
+      "internalCode": "4134",
+      "name": "송파나루",
+      "nameEn": "Songpanaru",
+      "line": "9호선",
+      "isTransfer": false
+    },
+    {
+      "code": "933",
+      "internalCode": "4133",
+      "name": "석촌",
+      "nameEn": "Seokchon(Hansol Hospital)",
+      "line": "9호선",
+      "isTransfer": true
+    },
+    {
+      "code": "920",
+      "internalCode": "4120",
+      "name": "동작",
+      "nameEn": "Dongjak",
+      "line": "9호선",
+      "isTransfer": true
+    },
+    {
+      "code": "919",
+      "internalCode": "4119",
+      "name": "흑석",
+      "nameEn": "Heukseok",
+      "line": "9호선",
+      "isTransfer": false
+    },
+    {
+      "code": "918",
+      "internalCode": "4118",
+      "name": "노들",
+      "nameEn": "Nodeul",
+      "line": "9호선",
+      "isTransfer": false
+    },
+    {
+      "code": "913",
+      "internalCode": "4113",
+      "name": "당산",
+      "nameEn": "Dangsan",
+      "line": "9호선",
+      "isTransfer": true
+    },
+    {
+      "code": "912",
+      "internalCode": "4112",
+      "name": "선유도",
+      "nameEn": "Seonyudo",
+      "line": "9호선",
+      "isTransfer": false
+    },
+    {
+      "code": "904",
+      "internalCode": "4104",
+      "name": "신방화",
+      "nameEn": "Sinbanghwa",
+      "line": "9호선",
+      "isTransfer": false
+    },
+    {
+      "code": "903",
+      "internalCode": "4103",
+      "name": "공항시장",
+      "nameEn": "Airport Market",
+      "line": "9호선",
+      "isTransfer": false
+    },
+    {
+      "code": "902",
+      "internalCode": "4102",
+      "name": "김포공항",
+      "nameEn": "Gimpo Intl. Airport",
+      "line": "9호선",
+      "isTransfer": true
+    },
+    {
+      "code": "901",
+      "internalCode": "4101",
+      "name": "개화",
+      "nameEn": "Gaehwa",
+      "line": "9호선",
+      "isTransfer": false
+    },
+    {
+      "code": "921",
+      "internalCode": "4121",
+      "name": "구반포",
+      "nameEn": "Gubanpo",
+      "line": "9호선",
+      "isTransfer": false
+    },
+    {
+      "code": "922",
+      "internalCode": "4122",
+      "name": "신반포",
+      "nameEn": "Sinbanpo",
+      "line": "9호선",
+      "isTransfer": false
+    },
+    {
+      "code": "923",
+      "internalCode": "4123",
+      "name": "고속터미널",
+      "nameEn": "Express Bus Terminal",
+      "line": "9호선",
+      "isTransfer": true
+    },
+    {
+      "code": "924",
+      "internalCode": "4124",
+      "name": "사평",
+      "nameEn": "Sapyeong",
+      "line": "9호선",
+      "isTransfer": false
+    },
+    {
+      "code": "928",
+      "internalCode": "4128",
+      "name": "삼성중앙",
+      "nameEn": "Samseong Jungang",
+      "line": "9호선",
+      "isTransfer": false
+    },
+    {
+      "code": "929",
+      "internalCode": "4129",
+      "name": "봉은사",
+      "nameEn": "Bongeunsa",
+      "line": "9호선",
+      "isTransfer": false
+    },
+    {
+      "code": "930",
+      "internalCode": "4130",
+      "name": "종합운동장",
+      "nameEn": "Sports Complex",
+      "line": "9호선",
+      "isTransfer": true
+    },
+    {
+      "code": "931",
+      "internalCode": "4131",
+      "name": "삼전",
+      "nameEn": "Samjeon",
+      "line": "9호선",
+      "isTransfer": false
+    },
+    {
+      "code": "932",
+      "internalCode": "4132",
+      "name": "석촌고분",
+      "nameEn": "Seokchon Gobun",
+      "line": "9호선",
+      "isTransfer": false
+    },
+    {
+      "code": "937",
+      "internalCode": "4137",
+      "name": "둔촌오륜",
+      "nameEn": "Dunchon Oryun",
+      "line": "9호선",
+      "isTransfer": false
+    },
+    {
+      "code": "938",
+      "internalCode": "4138",
+      "name": "중앙보훈병원",
+      "nameEn": "VHS Medical Center",
+      "line": "9호선",
+      "isTransfer": false
+    },
+    {
+      "code": "927",
+      "internalCode": "4127",
+      "name": "선정릉",
+      "nameEn": "Seonjeongneung",
+      "line": "9호선",
+      "isTransfer": true
+    },
+    {
+      "code": "926",
+      "internalCode": "4126",
+      "name": "언주",
+      "nameEn": "Eonju",
+      "line": "9호선",
+      "isTransfer": false
+    },
+    {
+      "code": "925",
+      "internalCode": "4125",
+      "name": "신논현",
+      "nameEn": "Sinnonhyeon",
+      "line": "9호선",
+      "isTransfer": true
+    },
+    {
+      "code": "X108",
+      "internalCode": "0008",
+      "name": "수서",
+      "nameEn": "Suseo",
+      "line": "GTX-A",
+      "isTransfer": true
+    },
+    {
+      "code": "X109",
+      "internalCode": "0009",
+      "name": "성남",
+      "nameEn": "Seongnam",
+      "line": "GTX-A",
+      "isTransfer": true
+    },
+    {
+      "code": "X110",
+      "internalCode": "0010",
+      "name": "구성",
+      "nameEn": "Guseong",
+      "line": "GTX-A",
+      "isTransfer": true
+    },
+    {
+      "code": "X111",
+      "internalCode": "0011",
+      "name": "동탄",
+      "nameEn": "Dongtan",
+      "line": "GTX-A",
+      "isTransfer": false
+    },
+    {
+      "code": "X103",
+      "internalCode": "9002",
+      "name": "대곡",
+      "nameEn": "Daegok",
+      "line": "GTX-A",
+      "isTransfer": true
+    },
+    {
+      "code": "X102",
+      "internalCode": "9001",
+      "name": "킨텍스",
+      "nameEn": "Kintex",
+      "line": "GTX-A",
+      "isTransfer": false
+    },
+    {
+      "code": "X106",
+      "internalCode": "9005",
+      "name": "서울",
+      "nameEn": "Seoul",
+      "line": "GTX-A",
+      "isTransfer": false
+    },
+    {
+      "code": "X105",
+      "internalCode": "9004",
+      "name": "연신내",
+      "nameEn": "Yeonsinnae",
+      "line": "GTX-A",
+      "isTransfer": true
+    },
+    {
+      "code": "X101",
+      "internalCode": "9000",
+      "name": "운정중앙",
+      "nameEn": "Unjeongjungang",
+      "line": "GTX-A",
+      "isTransfer": false
+    },
+    {
+      "code": "K420",
+      "internalCode": "1511",
+      "name": "여주",
+      "nameEn": "Yeoju",
+      "line": "경강선",
+      "isTransfer": false
+    },
+    {
+      "code": "K416",
+      "internalCode": "1507",
+      "name": "신둔도예촌",
+      "nameEn": "Sindundoyechon",
+      "line": "경강선",
+      "isTransfer": false
+    },
+    {
+      "code": "K414",
+      "internalCode": "1505",
+      "name": "초월",
+      "nameEn": "Chowol",
+      "line": "경강선",
+      "isTransfer": false
+    },
+    {
+      "code": "K411",
+      "internalCode": "1502",
+      "name": "이매",
+      "nameEn": "Imae",
+      "line": "경강선",
+      "isTransfer": true
+    },
+    {
+      "code": "K409",
+      "internalCode": "1501",
+      "name": "판교",
+      "nameEn": "Pangyo",
+      "line": "경강선",
+      "isTransfer": true
+    },
+    {
+      "code": "K412",
+      "internalCode": "1503",
+      "name": "삼동",
+      "nameEn": "Samdong",
+      "line": "경강선",
+      "isTransfer": false
+    },
+    {
+      "code": "K410",
+      "internalCode": "1512",
+      "name": "성남",
+      "nameEn": "Seongnam",
+      "line": "경강선",
+      "isTransfer": true
+    },
+    {
+      "code": "K418",
+      "internalCode": "1509",
+      "name": "부발",
+      "nameEn": "Bubal",
+      "line": "경강선",
+      "isTransfer": false
+    },
+    {
+      "code": "K413",
+      "internalCode": "1504",
+      "name": "경기광주",
+      "nameEn": "GyeonggiGwangju",
+      "line": "경강선",
+      "isTransfer": false
+    },
+    {
+      "code": "K415",
+      "internalCode": "1506",
+      "name": "곤지암",
+      "nameEn": "Gonjiam",
+      "line": "경강선",
+      "isTransfer": false
+    },
+    {
+      "code": "K417",
+      "internalCode": "1508",
+      "name": "이천",
+      "nameEn": "Icheon",
+      "line": "경강선",
+      "isTransfer": false
+    },
+    {
+      "code": "K419",
+      "internalCode": "1510",
+      "name": "세종대왕릉",
+      "nameEn": "Sejongdaewangneung",
+      "line": "경강선",
+      "isTransfer": false
+    },
+    {
+      "code": "K321",
+      "internalCode": "1271",
+      "name": "능곡",
+      "nameEn": "Neunggok",
+      "line": "경의·중앙선",
+      "isTransfer": true
+    },
+    {
+      "code": "K117",
+      "internalCode": "1014",
+      "name": "청량리",
+      "nameEn": "Cheongnyangni",
+      "line": "경의·중앙선",
+      "isTransfer": true
+    },
+    {
+      "code": "K324",
+      "internalCode": "1273",
+      "name": "백마",
+      "nameEn": "Baengma",
+      "line": "경의·중앙선",
+      "isTransfer": true
+    },
+    {
+      "code": "K125",
+      "internalCode": "1207",
+      "name": "양정",
+      "nameEn": "Yangjeong",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K126",
+      "internalCode": "1208",
+      "name": "덕소",
+      "nameEn": "Deokso",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K127",
+      "internalCode": "1209",
+      "name": "도심",
+      "nameEn": "Dosim",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K329",
+      "internalCode": "1278",
+      "name": "운정",
+      "nameEn": "Unjeong",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K328",
+      "internalCode": "1277",
+      "name": "야당",
+      "nameEn": "Yadang",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K327",
+      "internalCode": "1276",
+      "name": "탄현",
+      "nameEn": "Tanhyeon",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K326",
+      "internalCode": "1275",
+      "name": "일산",
+      "nameEn": "Ilsan",
+      "line": "경의·중앙선",
+      "isTransfer": true
+    },
+    {
+      "code": "K325",
+      "internalCode": "1274",
+      "name": "풍산",
+      "nameEn": "Pungsan",
+      "line": "경의·중앙선",
+      "isTransfer": true
+    },
+    {
+      "code": "K111",
+      "internalCode": "1008",
+      "name": "이촌",
+      "nameEn": "Ichon",
+      "line": "경의·중앙선",
+      "isTransfer": true
+    },
+    {
+      "code": "K336",
+      "internalCode": "1286",
+      "name": "운천",
+      "nameEn": "Uncheon",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K337",
+      "internalCode": "1285",
+      "name": "임진강",
+      "nameEn": "Imjingang",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K118",
+      "internalCode": "101C",
+      "name": "회기",
+      "nameEn": "Hoegi",
+      "line": "경의·중앙선",
+      "isTransfer": true
+    },
+    {
+      "code": "K335",
+      "internalCode": "1284",
+      "name": "문산",
+      "nameEn": "Munsan",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K334",
+      "internalCode": "1283",
+      "name": "파주",
+      "nameEn": "Paju",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K331",
+      "internalCode": "1280",
+      "name": "금촌",
+      "nameEn": "Geumchon",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K330",
+      "internalCode": "1279",
+      "name": "금릉",
+      "nameEn": "Geumneung",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K110",
+      "internalCode": "100C",
+      "name": "용산",
+      "nameEn": "Yongsan",
+      "line": "경의·중앙선",
+      "isTransfer": true
+    },
+    {
+      "code": "P312",
+      "internalCode": "1252",
+      "name": "신촌",
+      "nameEn": "Sinchon",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K826",
+      "internalCode": "1261",
+      "name": "효창공원앞",
+      "nameEn": "Hyochang Park",
+      "line": "경의·중앙선",
+      "isTransfer": true
+    },
+    {
+      "code": "K312",
+      "internalCode": "1262",
+      "name": "공덕",
+      "nameEn": "Gongdeok",
+      "line": "경의·중앙선",
+      "isTransfer": true
+    },
+    {
+      "code": "P313",
+      "internalCode": "1251",
+      "name": "서울역",
+      "nameEn": "Seoul Station",
+      "line": "경의·중앙선",
+      "isTransfer": true
+    },
+    {
+      "code": "K333",
+      "internalCode": "1282",
+      "name": "월롱",
+      "nameEn": "Wollong",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K124",
+      "internalCode": "1206",
+      "name": "도농",
+      "nameEn": "Donong",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K121",
+      "internalCode": "1203",
+      "name": "망우",
+      "nameEn": "Mangu",
+      "line": "경의·중앙선",
+      "isTransfer": true
+    },
+    {
+      "code": "K120",
+      "internalCode": "1202",
+      "name": "상봉",
+      "nameEn": "Sangbong",
+      "line": "경의·중앙선",
+      "isTransfer": true
+    },
+    {
+      "code": "K119",
+      "internalCode": "1201",
+      "name": "중랑",
+      "nameEn": "Jungnang",
+      "line": "경의·중앙선",
+      "isTransfer": true
+    },
+    {
+      "code": "K130",
+      "internalCode": "1212",
+      "name": "양수",
+      "nameEn": "Yangsu",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K132",
+      "internalCode": "1214",
+      "name": "국수",
+      "nameEn": "Guksu",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K133",
+      "internalCode": "1215",
+      "name": "아신",
+      "nameEn": "Asin",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K134",
+      "internalCode": "1216",
+      "name": "오빈",
+      "nameEn": "Obin",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K135",
+      "internalCode": "1217",
+      "name": "양평(중앙선)",
+      "nameEn": "Yangpyeong",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K136",
+      "internalCode": "1218",
+      "name": "원덕",
+      "nameEn": "Wondeok",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K313",
+      "internalCode": "1263",
+      "name": "서강대",
+      "nameEn": "Sogang Univ.",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K314",
+      "internalCode": "1264",
+      "name": "홍대입구",
+      "nameEn": "Hongik Univ.",
+      "line": "경의·중앙선",
+      "isTransfer": true
+    },
+    {
+      "code": "K315",
+      "internalCode": "1265",
+      "name": "가좌",
+      "nameEn": "Gajwa",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K316",
+      "internalCode": "1266",
+      "name": "디지털미디어시티",
+      "nameEn": "Digital Media City",
+      "line": "경의·중앙선",
+      "isTransfer": true
+    },
+    {
+      "code": "K317",
+      "internalCode": "1267",
+      "name": "수색",
+      "nameEn": "Susaek",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K318",
+      "internalCode": "1268",
+      "name": "한국항공대",
+      "nameEn": "Korea Aerospace Univ.",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K319",
+      "internalCode": "1269",
+      "name": "강매",
+      "nameEn": "Gangmae",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K320",
+      "internalCode": "1270",
+      "name": "행신",
+      "nameEn": "Haengsin",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K131",
+      "internalCode": "1213",
+      "name": "신원",
+      "nameEn": "Sinwon",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K137",
+      "internalCode": "1219",
+      "name": "용문",
+      "nameEn": "Yongmun",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K138",
+      "internalCode": "1220",
+      "name": "지평",
+      "nameEn": "Jipyeong",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K129",
+      "internalCode": "1211",
+      "name": "운길산",
+      "nameEn": "Ungilsan",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K116",
+      "internalCode": "1013",
+      "name": "왕십리",
+      "nameEn": "Wangsimni",
+      "line": "경의·중앙선",
+      "isTransfer": true
+    },
+    {
+      "code": "K115",
+      "internalCode": "1012",
+      "name": "응봉",
+      "nameEn": "Eungbong",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K112",
+      "internalCode": "1009",
+      "name": "서빙고",
+      "nameEn": "Seobinggo",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K113",
+      "internalCode": "1010",
+      "name": "한남",
+      "nameEn": "Hannam",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K114",
+      "internalCode": "1011",
+      "name": "옥수",
+      "nameEn": "Oksu",
+      "line": "경의·중앙선",
+      "isTransfer": true
+    },
+    {
+      "code": "K122",
+      "internalCode": "1204",
+      "name": "양원",
+      "nameEn": "Yangwon",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K123",
+      "internalCode": "1205",
+      "name": "구리",
+      "nameEn": "Guri",
+      "line": "경의·중앙선",
+      "isTransfer": true
+    },
+    {
+      "code": "K322",
+      "internalCode": "0300",
+      "name": "대곡",
+      "nameEn": "Daegok",
+      "line": "경의·중앙선",
+      "isTransfer": true
+    },
+    {
+      "code": "K128",
+      "internalCode": "1210",
+      "name": "팔당",
+      "nameEn": "Paldang",
+      "line": "경의·중앙선",
+      "isTransfer": false
+    },
+    {
+      "code": "K323",
+      "internalCode": "1272",
+      "name": "곡산",
+      "nameEn": "Goksan",
+      "line": "경의·중앙선",
+      "isTransfer": true
+    },
+    {
+      "code": "P129",
+      "internalCode": "1318",
+      "name": "천마산",
+      "nameEn": "Cheonmasan",
+      "line": "경춘선",
+      "isTransfer": false
+    },
+    {
+      "code": "P116",
+      "internalCode": "1305",
+      "name": "광운대",
+      "nameEn": "Kwangwoon Univ.",
+      "line": "경춘선",
+      "isTransfer": true
+    },
+    {
+      "code": "P117",
+      "internalCode": "1306",
+      "name": "청량리",
+      "nameEn": "Cheongnyangni",
+      "line": "경춘선",
+      "isTransfer": true
+    },
+    {
+      "code": "P118",
+      "internalCode": "1307",
+      "name": "회기",
+      "nameEn": "Hoegi",
+      "line": "경춘선",
+      "isTransfer": true
+    },
+    {
+      "code": "P128",
+      "internalCode": "1317",
+      "name": "평내호평",
+      "nameEn": "Pyeongnae Hopyeong",
+      "line": "경춘선",
+      "isTransfer": false
+    },
+    {
+      "code": "P130",
+      "internalCode": "1319",
+      "name": "마석",
+      "nameEn": "Maseok",
+      "line": "경춘선",
+      "isTransfer": false
+    },
+    {
+      "code": "P131",
+      "internalCode": "1320",
+      "name": "대성리",
+      "nameEn": "Daeseong-ri",
+      "line": "경춘선",
+      "isTransfer": false
+    },
+    {
+      "code": "P136",
+      "internalCode": "1325",
+      "name": "백양리",
+      "nameEn": "Baegyang-ri",
+      "line": "경춘선",
+      "isTransfer": false
+    },
+    {
+      "code": "P132",
+      "internalCode": "1321",
+      "name": "청평",
+      "nameEn": "Cheongpyeong",
+      "line": "경춘선",
+      "isTransfer": false
+    },
+    {
+      "code": "P133",
+      "internalCode": "1322",
+      "name": "상천",
+      "nameEn": "Sangcheon",
+      "line": "경춘선",
+      "isTransfer": false
+    },
+    {
+      "code": "P134",
+      "internalCode": "1323",
+      "name": "가평",
+      "nameEn": "Gapyeong",
+      "line": "경춘선",
+      "isTransfer": false
+    },
+    {
+      "code": "P139",
+      "internalCode": "1328",
+      "name": "남춘천",
+      "nameEn": "Namchuncheon",
+      "line": "경춘선",
+      "isTransfer": false
+    },
+    {
+      "code": "P138",
+      "internalCode": "1327",
+      "name": "김유정",
+      "nameEn": "Gimyujeong",
+      "line": "경춘선",
+      "isTransfer": false
+    },
+    {
+      "code": "P137",
+      "internalCode": "1326",
+      "name": "강촌",
+      "nameEn": "Gangchon",
+      "line": "경춘선",
+      "isTransfer": false
+    },
+    {
+      "code": "P120",
+      "internalCode": "1309",
+      "name": "상봉",
+      "nameEn": "Sangbong",
+      "line": "경춘선",
+      "isTransfer": true
+    },
+    {
+      "code": "P135",
+      "internalCode": "1324",
+      "name": "굴봉산",
+      "nameEn": "Gulbongsan",
+      "line": "경춘선",
+      "isTransfer": false
+    },
+    {
+      "code": "P127",
+      "internalCode": "1316",
+      "name": "금곡",
+      "nameEn": "Geumgok",
+      "line": "경춘선",
+      "isTransfer": false
+    },
+    {
+      "code": "P126",
+      "internalCode": "1315",
+      "name": "사릉",
+      "nameEn": "Sareung",
+      "line": "경춘선",
+      "isTransfer": false
+    },
+    {
+      "code": "P125",
+      "internalCode": "1314",
+      "name": "퇴계원",
+      "nameEn": "Toegyewon",
+      "line": "경춘선",
+      "isTransfer": false
+    },
+    {
+      "code": "P124",
+      "internalCode": "1313",
+      "name": "별내",
+      "nameEn": "Byeollae",
+      "line": "경춘선",
+      "isTransfer": true
+    },
+    {
+      "code": "P123",
+      "internalCode": "1312",
+      "name": "갈매",
+      "nameEn": "Galmae",
+      "line": "경춘선",
+      "isTransfer": false
+    },
+    {
+      "code": "P122",
+      "internalCode": "1311",
+      "name": "신내",
+      "nameEn": "Sinnae",
+      "line": "경춘선",
+      "isTransfer": true
+    },
+    {
+      "code": "P121",
+      "internalCode": "1310",
+      "name": "망우",
+      "nameEn": "Mangu",
+      "line": "경춘선",
+      "isTransfer": true
+    },
+    {
+      "code": "P140",
+      "internalCode": "1329",
+      "name": "춘천",
+      "nameEn": "Chuncheon",
+      "line": "경춘선",
+      "isTransfer": false
+    },
+    {
+      "code": "P119",
+      "internalCode": "1308",
+      "name": "중랑",
+      "nameEn": "Jungnang",
+      "line": "경춘선",
+      "isTransfer": true
+    },
+    {
+      "code": "A072",
+      "internalCode": "4217",
+      "name": "영종",
+      "nameEn": "Yeongjong",
+      "line": "공항철도",
+      "isTransfer": false
+    },
+    {
+      "code": "A042",
+      "internalCode": "4206",
+      "name": "마곡나루",
+      "nameEn": "Magongnaru",
+      "line": "공항철도",
+      "isTransfer": true
+    },
+    {
+      "code": "A04",
+      "internalCode": "4204",
+      "name": "디지털미디어시티",
+      "nameEn": "Digital Media City",
+      "line": "공항철도",
+      "isTransfer": true
+    },
+    {
+      "code": "A11",
+      "internalCode": "4215",
+      "name": "인천공항2터미널",
+      "nameEn": "Incheon Int’l Airport Terminal 2",
+      "line": "공항철도",
+      "isTransfer": false
+    },
+    {
+      "code": "A03",
+      "internalCode": "4203",
+      "name": "홍대입구",
+      "nameEn": "Hongik Univ.",
+      "line": "공항철도",
+      "isTransfer": true
+    },
+    {
+      "code": "A02",
+      "internalCode": "4202",
+      "name": "공덕",
+      "nameEn": "Gongdeok",
+      "line": "공항철도",
+      "isTransfer": true
+    },
+    {
+      "code": "A071",
+      "internalCode": "4210",
+      "name": "청라국제도시",
+      "nameEn": "Cheongna Int’l City Station",
+      "line": "공항철도",
+      "isTransfer": false
+    },
+    {
+      "code": "A08",
+      "internalCode": "4211",
+      "name": "운서",
+      "nameEn": "Unseo",
+      "line": "공항철도",
+      "isTransfer": false
+    },
+    {
+      "code": "A01",
+      "internalCode": "4201",
+      "name": "서울역",
+      "nameEn": "Seoul Station",
+      "line": "공항철도",
+      "isTransfer": true
+    },
+    {
+      "code": "A10",
+      "internalCode": "4213",
+      "name": "인천공항1터미널",
+      "nameEn": "Incheon Int’l Airport Terminal 1",
+      "line": "공항철도",
+      "isTransfer": false
+    },
+    {
+      "code": "A07",
+      "internalCode": "4209",
+      "name": "검암",
+      "nameEn": "Geomam",
+      "line": "공항철도",
+      "isTransfer": true
+    },
+    {
+      "code": "A06",
+      "internalCode": "4208",
+      "name": "계양",
+      "nameEn": "Gyeyang",
+      "line": "공항철도",
+      "isTransfer": true
+    },
+    {
+      "code": "A05",
+      "internalCode": "4207",
+      "name": "김포공항",
+      "nameEn": "Gimpo Intl. Airport",
+      "line": "공항철도",
+      "isTransfer": true
+    },
+    {
+      "code": "A09",
+      "internalCode": "4212",
+      "name": "공항화물청사",
+      "nameEn": "Incheon Intl. Airport Cargo Terminal",
+      "line": "공항철도",
+      "isTransfer": false
+    },
+    {
+      "code": "692",
+      "internalCode": "4922",
+      "name": "마산",
+      "nameEn": "Masan",
+      "line": "김포도시철도",
+      "isTransfer": false
+    },
+    {
+      "code": "690",
+      "internalCode": "4920",
+      "name": "양촌",
+      "nameEn": "Yangchon",
+      "line": "김포도시철도",
+      "isTransfer": false
+    },
+    {
+      "code": "698",
+      "internalCode": "4928",
+      "name": "고촌",
+      "nameEn": "Gochon",
+      "line": "김포도시철도",
+      "isTransfer": false
+    },
+    {
+      "code": "691",
+      "internalCode": "4921",
+      "name": "구래",
+      "nameEn": "Gurae",
+      "line": "김포도시철도",
+      "isTransfer": false
+    },
+    {
+      "code": "699",
+      "internalCode": "4929",
+      "name": "김포공항",
+      "nameEn": "Gimpo Int’l Airport",
+      "line": "김포도시철도",
+      "isTransfer": true
+    },
+    {
+      "code": "693",
+      "internalCode": "4923",
+      "name": "장기",
+      "nameEn": "Janggi",
+      "line": "김포도시철도",
+      "isTransfer": false
+    },
+    {
+      "code": "697",
+      "internalCode": "4927",
+      "name": "풍무",
+      "nameEn": "Pungmu",
+      "line": "김포도시철도",
+      "isTransfer": false
+    },
+    {
+      "code": "696",
+      "internalCode": "4926",
+      "name": "사우",
+      "nameEn": "Sau",
+      "line": "김포도시철도",
+      "isTransfer": false
+    },
+    {
+      "code": "695",
+      "internalCode": "4925",
+      "name": "걸포북변",
+      "nameEn": "Geolpo Bukbyeon",
+      "line": "김포도시철도",
+      "isTransfer": false
+    },
+    {
+      "code": "694",
+      "internalCode": "4924",
+      "name": "운양",
+      "nameEn": "Unyang",
+      "line": "김포도시철도",
+      "isTransfer": false
+    },
+    {
+      "code": "S16",
+      "internalCode": "4804",
+      "name": "소사",
+      "nameEn": "Sosa",
+      "line": "서해선",
+      "isTransfer": true
+    },
+    {
+      "code": "S10",
+      "internalCode": "105C",
+      "name": "곡산",
+      "nameEn": "Goksan",
+      "line": "서해선",
+      "isTransfer": true
+    },
+    {
+      "code": "S09",
+      "internalCode": "106C",
+      "name": "백마",
+      "nameEn": "Baengma",
+      "line": "서해선",
+      "isTransfer": true
+    },
+    {
+      "code": "S08",
+      "internalCode": "107C",
+      "name": "풍산",
+      "nameEn": "Pungsan",
+      "line": "서해선",
+      "isTransfer": true
+    },
+    {
+      "code": "S07",
+      "internalCode": "108C",
+      "name": "일산",
+      "nameEn": "Ilsan",
+      "line": "서해선",
+      "isTransfer": true
+    },
+    {
+      "code": "S12",
+      "internalCode": "104C",
+      "name": "능곡",
+      "nameEn": "Neunggok",
+      "line": "서해선",
+      "isTransfer": true
+    },
+    {
+      "code": "S11",
+      "internalCode": "103C",
+      "name": "대곡",
+      "nameEn": "Daegok",
+      "line": "서해선",
+      "isTransfer": true
+    },
+    {
+      "code": "S13",
+      "internalCode": "1980",
+      "name": "김포공항",
+      "nameEn": "Gimpo Int'l Airport",
+      "line": "서해선",
+      "isTransfer": true
+    },
+    {
+      "code": "S17",
+      "internalCode": "4805",
+      "name": "소새울",
+      "nameEn": "Sosaeul",
+      "line": "서해선",
+      "isTransfer": false
+    },
+    {
+      "code": "S18",
+      "internalCode": "4806",
+      "name": "시흥대야",
+      "nameEn": "Siheung Daeya",
+      "line": "서해선",
+      "isTransfer": false
+    },
+    {
+      "code": "S19",
+      "internalCode": "4807",
+      "name": "신천",
+      "nameEn": "Sincheon",
+      "line": "서해선",
+      "isTransfer": false
+    },
+    {
+      "code": "S20",
+      "internalCode": "4808",
+      "name": "신현",
+      "nameEn": "Sinhyeon",
+      "line": "서해선",
+      "isTransfer": false
+    },
+    {
+      "code": "S22",
+      "internalCode": "4809",
+      "name": "시흥시청",
+      "nameEn": "Siheung City Hall",
+      "line": "서해선",
+      "isTransfer": false
+    },
+    {
+      "code": "S23",
+      "internalCode": "4810",
+      "name": "시흥능곡",
+      "nameEn": "Siheung Neunggok",
+      "line": "서해선",
+      "isTransfer": false
+    },
+    {
+      "code": "S24",
+      "internalCode": "4811",
+      "name": "달미",
+      "nameEn": "Dalmi",
+      "line": "서해선",
+      "isTransfer": false
+    },
+    {
+      "code": "S25",
+      "internalCode": "4812",
+      "name": "선부",
+      "nameEn": "Seonbu",
+      "line": "서해선",
+      "isTransfer": false
+    },
+    {
+      "code": "S26",
+      "internalCode": "4813",
+      "name": "초지",
+      "nameEn": "Choji",
+      "line": "서해선",
+      "isTransfer": true
+    },
+    {
+      "code": "S27",
+      "internalCode": "4814",
+      "name": "시우",
+      "nameEn": "Siu",
+      "line": "서해선",
+      "isTransfer": false
+    },
+    {
+      "code": "S28",
+      "internalCode": "4815",
+      "name": "원시",
+      "nameEn": "Wonsi",
+      "line": "서해선",
+      "isTransfer": false
+    },
+    {
+      "code": "S14",
+      "internalCode": "1981",
+      "name": "원종",
+      "nameEn": "Wonjong",
+      "line": "서해선",
+      "isTransfer": false
+    },
+    {
+      "code": "S15",
+      "internalCode": "1982",
+      "name": "부천종합운동장",
+      "nameEn": "Bucheon Stadium",
+      "line": "서해선",
+      "isTransfer": true
+    },
+    {
+      "code": "K252",
+      "internalCode": "1831",
+      "name": "중앙",
+      "nameEn": "Jungang",
+      "line": "수인·분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "K247",
+      "internalCode": "1874",
+      "name": "오목천",
+      "nameEn": "Omokcheon",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K235",
+      "internalCode": "1863",
+      "name": "구성",
+      "nameEn": "Guseong",
+      "line": "수인·분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "K262",
+      "internalCode": "1881",
+      "name": "인천논현",
+      "nameEn": "Incheon Nonhyeon",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K224",
+      "internalCode": "1852",
+      "name": "태평",
+      "nameEn": "Taepyeong",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K238",
+      "internalCode": "1866",
+      "name": "상갈",
+      "nameEn": "Sanggal",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K237",
+      "internalCode": "1865",
+      "name": "기흥",
+      "nameEn": "Giheung",
+      "line": "수인·분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "K269",
+      "internalCode": "1888",
+      "name": "인하대",
+      "nameEn": "Inha Univ.",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K241",
+      "internalCode": "1869",
+      "name": "망포",
+      "nameEn": "Mangpo",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K243",
+      "internalCode": "1871",
+      "name": "수원시청",
+      "nameEn": "Suwon City Hall",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K242",
+      "internalCode": "1870",
+      "name": "매탄권선",
+      "nameEn": "MaetanGwonseon",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K223",
+      "internalCode": "1851",
+      "name": "가천대",
+      "nameEn": "Gachon Univ.",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K271",
+      "internalCode": "1890",
+      "name": "신포",
+      "nameEn": "Sinpo",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K233",
+      "internalCode": "1862",
+      "name": "죽전",
+      "nameEn": "Jukjeon",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K258",
+      "internalCode": "1800",
+      "name": "오이도",
+      "nameEn": "Oido",
+      "line": "수인·분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "K212",
+      "internalCode": "1848",
+      "name": "압구정로데오",
+      "nameEn": "Apgujeong rodeo",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K236",
+      "internalCode": "1864",
+      "name": "신갈",
+      "nameEn": "Singal",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K234",
+      "internalCode": "1861",
+      "name": "보정",
+      "nameEn": "Bojeong",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K227",
+      "internalCode": "1860",
+      "name": "이매",
+      "nameEn": "Imae",
+      "line": "수인·분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "K232",
+      "internalCode": "1859",
+      "name": "오리",
+      "nameEn": "Ori",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K231",
+      "internalCode": "1858",
+      "name": "미금",
+      "nameEn": "Migeum",
+      "line": "수인·분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "K230",
+      "internalCode": "1857",
+      "name": "정자",
+      "nameEn": "Jeongja",
+      "line": "수인·분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "K229",
+      "internalCode": "1856",
+      "name": "수내",
+      "nameEn": "Sunae",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K228",
+      "internalCode": "1855",
+      "name": "서현",
+      "nameEn": "Seohyeon",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K261",
+      "internalCode": "1880",
+      "name": "소래포구",
+      "nameEn": "Soraepogu",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K260",
+      "internalCode": "1879",
+      "name": "월곶",
+      "nameEn": "Wolgot",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K259",
+      "internalCode": "1878",
+      "name": "달월",
+      "nameEn": "Dalwol",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K226",
+      "internalCode": "1854",
+      "name": "야탑",
+      "nameEn": "Yatap",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K211",
+      "internalCode": "1847",
+      "name": "서울숲",
+      "nameEn": "Seoul-forest",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K263",
+      "internalCode": "1882",
+      "name": "호구포",
+      "nameEn": "Hogupo",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K209",
+      "internalCode": "1845",
+      "name": "청량리",
+      "nameEn": "Cheongnyangni",
+      "line": "수인·분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "K215",
+      "internalCode": "1023",
+      "name": "선릉",
+      "nameEn": "Seolleung",
+      "line": "수인·분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "K216",
+      "internalCode": "1024",
+      "name": "한티",
+      "nameEn": "Hanti",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K246",
+      "internalCode": "1873",
+      "name": "고색",
+      "nameEn": "Gosaek",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K217",
+      "internalCode": "1025",
+      "name": "도곡",
+      "nameEn": "Dogok",
+      "line": "수인·분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "K264",
+      "internalCode": "1883",
+      "name": "남동인더스파크",
+      "nameEn": "Namdong Induspark",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K251",
+      "internalCode": "1830",
+      "name": "한대앞",
+      "nameEn": "Hanyang Univ. at Ansan",
+      "line": "수인·분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "K240",
+      "internalCode": "1868",
+      "name": "영통",
+      "nameEn": "Yeongtong",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K218",
+      "internalCode": "1026",
+      "name": "구룡",
+      "nameEn": "Guryong",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K219",
+      "internalCode": "1027",
+      "name": "개포동",
+      "nameEn": "Gaepo-dong",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K220",
+      "internalCode": "1028",
+      "name": "대모산입구",
+      "nameEn": "Daemosan",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K272",
+      "internalCode": "1891",
+      "name": "인천",
+      "nameEn": "Incheon",
+      "line": "수인·분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "K214",
+      "internalCode": "1850",
+      "name": "선정릉",
+      "nameEn": "Seonjeongneung",
+      "line": "수인·분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "K210",
+      "internalCode": "102C",
+      "name": "왕십리",
+      "nameEn": "Wangsimni",
+      "line": "수인·분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "K239",
+      "internalCode": "1867",
+      "name": "청명",
+      "nameEn": "Cheongmyeong",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K249",
+      "internalCode": "1876",
+      "name": "야목",
+      "nameEn": "Yamok",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K250",
+      "internalCode": "1877",
+      "name": "사리",
+      "nameEn": "Sari",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K270",
+      "internalCode": "1889",
+      "name": "숭의",
+      "nameEn": "Sungui",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K267",
+      "internalCode": "1886",
+      "name": "송도",
+      "nameEn": "Songdo",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K221",
+      "internalCode": "1030",
+      "name": "수서",
+      "nameEn": "Suseo",
+      "line": "수인·분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "K266",
+      "internalCode": "1885",
+      "name": "연수",
+      "nameEn": "Yeonsu",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K265",
+      "internalCode": "1884",
+      "name": "원인재",
+      "nameEn": "Woninjae",
+      "line": "수인·분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "K244",
+      "internalCode": "1872",
+      "name": "매교",
+      "nameEn": "Maegyo",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K248",
+      "internalCode": "1875",
+      "name": "어천",
+      "nameEn": "Eocheon",
+      "line": "수인·분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "K225",
+      "internalCode": "1853",
+      "name": "모란",
+      "nameEn": "Moran",
+      "line": "수인·분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "K213",
+      "internalCode": "1849",
+      "name": "강남구청",
+      "nameEn": "Gangnam-gu Office",
+      "line": "수인·분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "K222",
+      "internalCode": "1031",
+      "name": "복정",
+      "nameEn": "Bokjeong",
+      "line": "수인·분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "K257",
+      "internalCode": "1836",
+      "name": "정왕",
+      "nameEn": "Jeongwang",
+      "line": "수인·분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "K256",
+      "internalCode": "1835",
+      "name": "신길온천",
+      "nameEn": "Neunggil",
+      "line": "수인·분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "K255",
+      "internalCode": "1834",
+      "name": "안산",
+      "nameEn": "Ansan",
+      "line": "수인·분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "K254",
+      "internalCode": "1833",
+      "name": "초지",
+      "nameEn": "Choji",
+      "line": "수인·분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "K253",
+      "internalCode": "1832",
+      "name": "고잔",
+      "nameEn": "Gojan",
+      "line": "수인·분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "K245",
+      "internalCode": "1846",
+      "name": "수원",
+      "nameEn": "Suwon",
+      "line": "수인·분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "S401",
+      "internalCode": "4401",
+      "name": "샛강",
+      "nameEn": "Saetgang",
+      "line": "신림선",
+      "isTransfer": true
+    },
+    {
+      "code": "S402",
+      "internalCode": "4402",
+      "name": "대방",
+      "nameEn": "Daebang",
+      "line": "신림선",
+      "isTransfer": true
+    },
+    {
+      "code": "S403",
+      "internalCode": "4403",
+      "name": "서울지방병무청",
+      "nameEn": "Seoul Regional Office of Military Manpower",
+      "line": "신림선",
+      "isTransfer": false
+    },
+    {
+      "code": "S404",
+      "internalCode": "4404",
+      "name": "보라매",
+      "nameEn": "Boramae",
+      "line": "신림선",
+      "isTransfer": true
+    },
+    {
+      "code": "S405",
+      "internalCode": "4405",
+      "name": "보라매공원",
+      "nameEn": "Boramae Park",
+      "line": "신림선",
+      "isTransfer": false
+    },
+    {
+      "code": "S406",
+      "internalCode": "4406",
+      "name": "보라매병원",
+      "nameEn": "Boramae MedicalCenter",
+      "line": "신림선",
+      "isTransfer": false
+    },
+    {
+      "code": "S407",
+      "internalCode": "4407",
+      "name": "당곡",
+      "nameEn": "Danggok",
+      "line": "신림선",
+      "isTransfer": false
+    },
+    {
+      "code": "S408",
+      "internalCode": "4408",
+      "name": "신림",
+      "nameEn": "Sillim",
+      "line": "신림선",
+      "isTransfer": true
+    },
+    {
+      "code": "S409",
+      "internalCode": "4409",
+      "name": "서원",
+      "nameEn": "Sutgogae",
+      "line": "신림선",
+      "isTransfer": false
+    },
+    {
+      "code": "S411",
+      "internalCode": "4411",
+      "name": "관악산",
+      "nameEn": "Gwanaksan",
+      "line": "신림선",
+      "isTransfer": false
+    },
+    {
+      "code": "S410",
+      "internalCode": "4410",
+      "name": "서울대벤처타운",
+      "nameEn": "Seoul National Univ. Venture Town",
+      "line": "신림선",
+      "isTransfer": false
+    },
+    {
+      "code": "D8",
+      "internalCode": "4308",
+      "name": "양재",
+      "nameEn": "Yangjae",
+      "line": "신분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "D10",
+      "internalCode": "4310",
+      "name": "청계산입구",
+      "nameEn": "Cheonggyesan",
+      "line": "신분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "D5",
+      "internalCode": "4305",
+      "name": "논현",
+      "nameEn": "Nonhyeon",
+      "line": "신분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "D9",
+      "internalCode": "4309",
+      "name": "양재시민의숲",
+      "nameEn": "Yangjae Citizen's Forest",
+      "line": "신분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "D11",
+      "internalCode": "4311",
+      "name": "판교",
+      "nameEn": "Pangyo",
+      "line": "신분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "D12",
+      "internalCode": "4312",
+      "name": "정자",
+      "nameEn": "Jeongja",
+      "line": "신분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "D13",
+      "internalCode": "4313",
+      "name": "미금",
+      "nameEn": "Migeum",
+      "line": "신분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "D14",
+      "internalCode": "4314",
+      "name": "동천",
+      "nameEn": "Dongcheon",
+      "line": "신분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "D15",
+      "internalCode": "4315",
+      "name": "수지구청",
+      "nameEn": "Suji-gu office",
+      "line": "신분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "D16",
+      "internalCode": "4316",
+      "name": "성복",
+      "nameEn": "Seongbok",
+      "line": "신분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "D17",
+      "internalCode": "4317",
+      "name": "상현",
+      "nameEn": "Sanghyeon",
+      "line": "신분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "D18",
+      "internalCode": "4318",
+      "name": "광교중앙",
+      "nameEn": "GwanggyoJungang",
+      "line": "신분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "D6",
+      "internalCode": "4306",
+      "name": "신논현",
+      "nameEn": "Sinnonhyeon",
+      "line": "신분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "D19",
+      "internalCode": "4319",
+      "name": "광교",
+      "nameEn": "Gwanggyo",
+      "line": "신분당선",
+      "isTransfer": false
+    },
+    {
+      "code": "D4",
+      "internalCode": "4304",
+      "name": "신사",
+      "nameEn": "Sinsa",
+      "line": "신분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "D7",
+      "internalCode": "4307",
+      "name": "강남",
+      "nameEn": "Gangnam",
+      "line": "신분당선",
+      "isTransfer": true
+    },
+    {
+      "code": "Y113",
+      "internalCode": "4504",
+      "name": "어정",
+      "nameEn": "Eojeong",
+      "line": "용인경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "Y114",
+      "internalCode": "4505",
+      "name": "동백",
+      "nameEn": "Dongbaek",
+      "line": "용인경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "Y115",
+      "internalCode": "4506",
+      "name": "초당",
+      "nameEn": "Chodang",
+      "line": "용인경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "Y116",
+      "internalCode": "4508",
+      "name": "삼가",
+      "nameEn": "Samga",
+      "line": "용인경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "Y117",
+      "internalCode": "4509",
+      "name": "시청.용인대",
+      "nameEn": "City Hall, Yongin Univ.",
+      "line": "용인경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "Y118",
+      "internalCode": "4510",
+      "name": "명지대",
+      "nameEn": "Myongji Univ.",
+      "line": "용인경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "Y125",
+      "internalCode": "4515",
+      "name": "둔전",
+      "nameEn": "Dunjeon",
+      "line": "용인경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "Y126",
+      "internalCode": "4517",
+      "name": "전대·에버랜드",
+      "nameEn": "Jeondae·Everland",
+      "line": "용인경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "Y119",
+      "internalCode": "4511",
+      "name": "김량장",
+      "nameEn": "Gimnyangjang",
+      "line": "용인경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "Y120",
+      "internalCode": "4512",
+      "name": "용인중앙시장",
+      "nameEn": "Yongin Jungang Market",
+      "line": "용인경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "Y121",
+      "internalCode": "4513",
+      "name": "고진",
+      "nameEn": "Gojin",
+      "line": "용인경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "Y123",
+      "internalCode": "4514",
+      "name": "보평",
+      "nameEn": "Bopyeong",
+      "line": "용인경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "Y110",
+      "internalCode": "4501",
+      "name": "기흥",
+      "nameEn": "Giheung",
+      "line": "용인경전철",
+      "isTransfer": true
+    },
+    {
+      "code": "Y111",
+      "internalCode": "4502",
+      "name": "강남대",
+      "nameEn": "Kangnam Univ.",
+      "line": "용인경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "Y112",
+      "internalCode": "4503",
+      "name": "지석",
+      "nameEn": "Jiseok",
+      "line": "용인경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "952",
+      "internalCode": "4712",
+      "name": "보문",
+      "nameEn": "Bomun",
+      "line": "우이신설경전철",
+      "isTransfer": true
+    },
+    {
+      "code": "941",
+      "internalCode": "4701",
+      "name": "북한산우이",
+      "nameEn": "Bukhansan Ui",
+      "line": "우이신설경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "942",
+      "internalCode": "4702",
+      "name": "솔밭공원",
+      "nameEn": "Solbat Park",
+      "line": "우이신설경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "943",
+      "internalCode": "4703",
+      "name": "4·19민주묘지",
+      "nameEn": "April 19th National Cemetery",
+      "line": "우이신설경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "944",
+      "internalCode": "4704",
+      "name": "가오리",
+      "nameEn": "Gaori",
+      "line": "우이신설경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "946",
+      "internalCode": "4706",
+      "name": "삼양",
+      "nameEn": "Samyang",
+      "line": "우이신설경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "947",
+      "internalCode": "4707",
+      "name": "삼양사거리",
+      "nameEn": "Samyang Sageori",
+      "line": "우이신설경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "948",
+      "internalCode": "4708",
+      "name": "솔샘",
+      "nameEn": "Solsaem",
+      "line": "우이신설경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "949",
+      "internalCode": "4709",
+      "name": "북한산보국문",
+      "nameEn": "Bukhansan Bogungmun",
+      "line": "우이신설경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "950",
+      "internalCode": "4710",
+      "name": "정릉",
+      "nameEn": "Jeongneung",
+      "line": "우이신설경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "945",
+      "internalCode": "4705",
+      "name": "화계",
+      "nameEn": "Hwagye",
+      "line": "우이신설경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "953",
+      "internalCode": "4713",
+      "name": "신설동",
+      "nameEn": "Sinseoldong",
+      "line": "우이신설경전철",
+      "isTransfer": true
+    },
+    {
+      "code": "951",
+      "internalCode": "4711",
+      "name": "성신여대입구",
+      "nameEn": "Sungshin Women`s Univ.",
+      "line": "우이신설경전철",
+      "isTransfer": true
+    },
+    {
+      "code": "U110",
+      "internalCode": "4601",
+      "name": "발곡",
+      "nameEn": "Balgok",
+      "line": "의정부경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "U111",
+      "internalCode": "4602",
+      "name": "회룡",
+      "nameEn": "Hoeryong",
+      "line": "의정부경전철",
+      "isTransfer": true
+    },
+    {
+      "code": "U112",
+      "internalCode": "4603",
+      "name": "범골",
+      "nameEn": "Beomgol",
+      "line": "의정부경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "U113",
+      "internalCode": "4604",
+      "name": "경전철의정부",
+      "nameEn": "Lrt Uijeongbu",
+      "line": "의정부경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "U114",
+      "internalCode": "4605",
+      "name": "의정부시청",
+      "nameEn": "Uijeongbu City Hall",
+      "line": "의정부경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "U117",
+      "internalCode": "4607",
+      "name": "의정부중앙",
+      "nameEn": "Uijeongbu Jung-ang",
+      "line": "의정부경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "U118",
+      "internalCode": "4608",
+      "name": "동오",
+      "nameEn": "Dong-o",
+      "line": "의정부경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "U119",
+      "internalCode": "4609",
+      "name": "새말",
+      "nameEn": "sae-mal",
+      "line": "의정부경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "U120",
+      "internalCode": "4610",
+      "name": "경기도청북부청사",
+      "nameEn": "Gyeonggi Provincial Government Northern Office",
+      "line": "의정부경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "U121",
+      "internalCode": "4611",
+      "name": "효자",
+      "nameEn": "hyoja",
+      "line": "의정부경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "U122",
+      "internalCode": "4612",
+      "name": "곤제",
+      "nameEn": "gonjae",
+      "line": "의정부경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "U123",
+      "internalCode": "4613",
+      "name": "어룡",
+      "nameEn": "eoryong",
+      "line": "의정부경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "U124",
+      "internalCode": "4614",
+      "name": "송산",
+      "nameEn": "Songsan",
+      "line": "의정부경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "U125",
+      "internalCode": "4615",
+      "name": "탑석",
+      "nameEn": "Tapseok",
+      "line": "의정부경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "U115",
+      "internalCode": "4606",
+      "name": "흥선",
+      "nameEn": "Heungseon",
+      "line": "의정부경전철",
+      "isTransfer": false
+    },
+    {
+      "code": "I203",
+      "internalCode": "3203",
+      "name": "검단사거리",
+      "nameEn": "Geomdan Sageori",
+      "line": "인천2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I202",
+      "internalCode": "3202",
+      "name": "왕길",
+      "nameEn": "Wanggil",
+      "line": "인천2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I201",
+      "internalCode": "3201",
+      "name": "검단오류",
+      "nameEn": "Geomdan Oryu",
+      "line": "인천2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I220",
+      "internalCode": "3220",
+      "name": "석바위시장",
+      "nameEn": "Seokbawi Market",
+      "line": "인천2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I219",
+      "internalCode": "3219",
+      "name": "시민공원",
+      "nameEn": "Citizens Park",
+      "line": "인천2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I218",
+      "internalCode": "3218",
+      "name": "주안",
+      "nameEn": "Juan",
+      "line": "인천2호선",
+      "isTransfer": true
+    },
+    {
+      "code": "I206",
+      "internalCode": "3206",
+      "name": "독정",
+      "nameEn": "Dokjeong",
+      "line": "인천2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I208",
+      "internalCode": "3208",
+      "name": "검바위",
+      "nameEn": "Geombawi",
+      "line": "인천2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I216",
+      "internalCode": "3216",
+      "name": "가재울",
+      "nameEn": "Gajaeul",
+      "line": "인천2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I217",
+      "internalCode": "3217",
+      "name": "주안국가산단",
+      "nameEn": "Juan National Industrial Complex",
+      "line": "인천2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I227",
+      "internalCode": "3227",
+      "name": "운연",
+      "nameEn": "Unyeon",
+      "line": "인천2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I221",
+      "internalCode": "3221",
+      "name": "인천시청",
+      "nameEn": "Inchon City Hall",
+      "line": "인천2호선",
+      "isTransfer": true
+    },
+    {
+      "code": "I213",
+      "internalCode": "3213",
+      "name": "석남",
+      "nameEn": "Seongnam",
+      "line": "인천2호선",
+      "isTransfer": true
+    },
+    {
+      "code": "I222",
+      "internalCode": "3222",
+      "name": "석천사거리",
+      "nameEn": "Seokcheon Sageori",
+      "line": "인천2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I223",
+      "internalCode": "3223",
+      "name": "모래내시장",
+      "nameEn": "Moraenae Market",
+      "line": "인천2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I224",
+      "internalCode": "3224",
+      "name": "만수",
+      "nameEn": "Mansu",
+      "line": "인천2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I225",
+      "internalCode": "3225",
+      "name": "남동구청",
+      "nameEn": "Namdong-gu Office",
+      "line": "인천2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I212",
+      "internalCode": "3212",
+      "name": "가정중앙시장",
+      "nameEn": "Gajeong Jungang Market",
+      "line": "인천2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I211",
+      "internalCode": "3211",
+      "name": "가정",
+      "nameEn": "Gajeong",
+      "line": "인천2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I209",
+      "internalCode": "3209",
+      "name": "아시아드경기장",
+      "nameEn": "Asiad Stadium",
+      "line": "인천2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I207",
+      "internalCode": "3207",
+      "name": "검암",
+      "nameEn": "Geomam",
+      "line": "인천2호선",
+      "isTransfer": true
+    },
+    {
+      "code": "I210",
+      "internalCode": "3210",
+      "name": "서구청",
+      "nameEn": "Seo-gu Office",
+      "line": "인천2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I226",
+      "internalCode": "3226",
+      "name": "인천대공원",
+      "nameEn": "Incheon Grand Park",
+      "line": "인천2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I205",
+      "internalCode": "3205",
+      "name": "완정",
+      "nameEn": "Wanjeong",
+      "line": "인천2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I215",
+      "internalCode": "3215",
+      "name": "인천가좌",
+      "nameEn": "Incheon Gajwa",
+      "line": "인천2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I204",
+      "internalCode": "3204",
+      "name": "마전",
+      "nameEn": "Majeon",
+      "line": "인천2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I214",
+      "internalCode": "3214",
+      "name": "서부여성회관",
+      "nameEn": "West Woman's Community Center",
+      "line": "인천2호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I118",
+      "internalCode": "3118",
+      "name": "부평구청",
+      "nameEn": "Bupyeong-gu Office",
+      "line": "인천1호선",
+      "isTransfer": true
+    },
+    {
+      "code": "I135",
+      "internalCode": "3135",
+      "name": "지식정보단지",
+      "nameEn": "BIT Zone",
+      "line": "인천1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I138",
+      "internalCode": "3138",
+      "name": "국제업무지구",
+      "nameEn": "Intl. Business District",
+      "line": "인천1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I125",
+      "internalCode": "3125",
+      "name": "예술회관",
+      "nameEn": "Arts Center",
+      "line": "인천1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I120",
+      "internalCode": "3120",
+      "name": "부평",
+      "nameEn": "Bupyeong",
+      "line": "인천1호선",
+      "isTransfer": true
+    },
+    {
+      "code": "I130",
+      "internalCode": "3130",
+      "name": "원인재",
+      "nameEn": "Woninjae",
+      "line": "인천1호선",
+      "isTransfer": true
+    },
+    {
+      "code": "I121",
+      "internalCode": "3121",
+      "name": "동수",
+      "nameEn": "Dongsu",
+      "line": "인천1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I113",
+      "internalCode": "3113",
+      "name": "임학",
+      "nameEn": "Imhak",
+      "line": "인천1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I132",
+      "internalCode": "3132",
+      "name": "동막",
+      "nameEn": "Dongmak",
+      "line": "인천1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I122",
+      "internalCode": "3122",
+      "name": "부평삼거리",
+      "nameEn": "Bupyeongsamgeori",
+      "line": "인천1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I131",
+      "internalCode": "3131",
+      "name": "동춘",
+      "nameEn": "Dongchun",
+      "line": "인천1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I124",
+      "internalCode": "3124",
+      "name": "인천시청",
+      "nameEn": "Incheon City Hall",
+      "line": "인천1호선",
+      "isTransfer": true
+    },
+    {
+      "code": "I128",
+      "internalCode": "3128",
+      "name": "선학",
+      "nameEn": "Seonhak",
+      "line": "인천1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I123",
+      "internalCode": "3123",
+      "name": "간석오거리",
+      "nameEn": "Ganseogogeori",
+      "line": "인천1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I109",
+      "internalCode": "3109",
+      "name": "아라",
+      "nameEn": "Ara",
+      "line": "인천1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I127",
+      "internalCode": "3127",
+      "name": "문학경기장",
+      "nameEn": "Munhak Sports Complex",
+      "line": "인천1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I119",
+      "internalCode": "3119",
+      "name": "부평시장",
+      "nameEn": "Bupyeong Market",
+      "line": "인천1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I137",
+      "internalCode": "3137",
+      "name": "센트럴파크",
+      "nameEn": "Central Park",
+      "line": "인천1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I136",
+      "internalCode": "3136",
+      "name": "인천대입구",
+      "nameEn": "Incheon Nat'l Univ.",
+      "line": "인천1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I139",
+      "internalCode": "3139",
+      "name": "송도달빛축제공원",
+      "nameEn": "Songdo Moonlight Festival Park",
+      "line": "인천1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I110",
+      "internalCode": "3110",
+      "name": "계양",
+      "nameEn": "Gyeyang",
+      "line": "인천1호선",
+      "isTransfer": true
+    },
+    {
+      "code": "I111",
+      "internalCode": "3111",
+      "name": "귤현",
+      "nameEn": "Gyulhyeon",
+      "line": "인천1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I112",
+      "internalCode": "3112",
+      "name": "박촌",
+      "nameEn": "Bakchon",
+      "line": "인천1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I126",
+      "internalCode": "3126",
+      "name": "인천터미널",
+      "nameEn": "Incheon Bus Terminal",
+      "line": "인천1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I117",
+      "internalCode": "3117",
+      "name": "갈산",
+      "nameEn": "Galsan",
+      "line": "인천1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I116",
+      "internalCode": "3116",
+      "name": "작전",
+      "nameEn": "Jakjeon",
+      "line": "인천1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I115",
+      "internalCode": "3115",
+      "name": "경인교대입구",
+      "nameEn": "Gyeong-in Nat`l Univ. of Education",
+      "line": "인천1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I133",
+      "internalCode": "3133",
+      "name": "캠퍼스타운",
+      "nameEn": "Campus Town",
+      "line": "인천1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I108",
+      "internalCode": "3108",
+      "name": "신검단중앙",
+      "nameEn": "Singeomdanjungang",
+      "line": "인천1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I107",
+      "internalCode": "3107",
+      "name": "검단호수공원",
+      "nameEn": "Geomdan Lake Park",
+      "line": "인천1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I129",
+      "internalCode": "3129",
+      "name": "신연수",
+      "nameEn": "Sinyeonsu",
+      "line": "인천1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I114",
+      "internalCode": "3114",
+      "name": "계산",
+      "nameEn": "Gyesan",
+      "line": "인천1호선",
+      "isTransfer": false
+    },
+    {
+      "code": "I134",
+      "internalCode": "3134",
+      "name": "테크노파크",
+      "nameEn": "Technopark",
+      "line": "인천1호선",
+      "isTransfer": false
+    }
+  ]
+}
